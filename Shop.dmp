@@ -1,0 +1,69 @@
+"aa" = (/turf/tile119,/turf/density,/turf/barrier,/area)
+"ab" = (/turf/tile116,/turf/density,/turf/barrier,/area)
+"ac" = (/turf/tile116,/turf/tile123,/turf/density,/turf/barrier,/area)
+"ad" = (/turf/tile120,/turf/density,/turf/barrier,/area)
+"ae" = (/turf/tile117,/turf/tile121,/turf/density,/turf/barrier,/area)
+"af" = (/turf/tile117,/area)
+"ag" = (/turf/tile117,/turf/tile124,/area)
+"ah" = (/turf/tile117,/turf/NewWorld/Decor/Closeth/C3,/area)
+"ai" = (/turf/tile117,/turf/tile79,/area)
+"aj" = (/turf/tile117,/turf/tile78,/area)
+"ak" = (/obj/Paintings/Painting_02,/turf/tile117,/area)
+"al" = (/turf/tile117,/turf/NewWorld/Decor/Closeth/C1,/area)
+"am" = (/turf/tile117,/turf/tile122,/turf/density,/turf/barrier,/area)
+"an" = (/turf/tile60,/turf/tile118,/turf/tile121,/turf/density,/turf/barrier,/area)
+"ao" = (/turf/tile60,/turf/tile118,/area)
+"ap" = (/turf/tile60,/turf/tile118,/turf/NewWorld/Decor/Closeth/C4,/area)
+"aq" = (/turf/tile60,/turf/tile118,/turf/tile66,/area)
+"ar" = (/turf/tile60,/turf/tile118,/turf/tile77,/area)
+"as" = (/turf/tile60,/turf/tile118,/turf/tile83,/area)
+"at" = (/turf/tile60,/turf/tile118,/turf/tile84,/area)
+"au" = (/turf/tile60,/turf/tile118,/turf/NewWorld/Decor/Closeth/C2,/area)
+"av" = (/turf/tile60,/turf/tile118,/turf/tile122,/turf/density,/turf/barrier,/area)
+"aw" = (/turf/tile60,/turf/tile121,/turf/density,/turf/barrier,/area)
+"ax" = (/turf/tile60,/area)
+"ay" = (/mob/Shopkeeper,/turf/tile60,/area)
+"az" = (/turf/tile60,/turf/tile66,/area)
+"aA" = (/turf/tile60,/turf/tile122,/turf/density,/turf/barrier,/area)
+"aB" = (/turf/tile60,/turf/tile73,/area)
+"aC" = (/turf/tile60,/turf/tile74,/area)
+"aD" = (/turf/tile60,/turf/tile75,/area)
+"aE" = (/turf/tile60,/turf/tile67,/area)
+"aF" = (/mob/NewWorld/NPC/Potion_Seller,/turf/tile60,/area)
+"aG" = (/turf/tile60,/turf/tile98,/area)
+"aH" = (/turf/tile60,/turf/tile99,/area)
+"aI" = (/turf/tile60,/turf/tile100,/area)
+"aJ" = (/turf/tile60,/turf/tile101,/area)
+"aK" = (/turf/tile106,/area)
+"aL" = (/turf/tile60,/turf/tile102,/area)
+"aM" = (/turf/tile60,/turf/tile103,/area)
+"aN" = (/turf/tile60,/turf/tile104,/area)
+"aO" = (/turf/tile60,/turf/tile105,/area)
+"aP" = (/turf/tile60,/turf/tile74,/turf/NewWorld/Decor/Table_Decor/O1,/area)
+"aQ" = (/obj/ComputerConsole,/turf/tile60,/area)
+"aR" = (/turf/tile60,/turf/tile65,/area)
+"aS" = (/mob/NewWorld/NPC/Banker,/turf/tile60,/area)
+"aT" = (/turf/tile60,/turf/tile121,/turf/tile170,/turf/density,/turf/barrier,/turf/NewWorld/Decor/Wall/W1,/area)
+"aU" = (/turf/tile60,/turf/tile170,/area)
+"aV" = (/turf/tile60,/turf/tile170,/turf/tile66,/turf/tile170,/area)
+"aW" = (/turf/tile60,/turf/tile122,/turf/tile170,/turf/density,/turf/barrier,/turf/NewWorld/Decor/Wall/W2,/area)
+"aX" = (/turf/tile125b,/turf/density,/turf/barrier,/area)
+"aY" = (/turf/tile60,/turf/tile64,/turf/NewWorld/Teleport/Shop/ShopToEarth,/area)
+
+(1,1,1) = {"
+aaabacabababacababababababacabababacabad
+aeafagahaiafagafajajafakafagafafalagafam
+anaoaoapaoaoaqaoararaoaoasataoaqauaoaoav
+awaxaxaxayaxazaxaxaxaxaxaxaxaxazaxaxaxaA
+awaxaxaBaCaDaEaxaxaxaxaxaxaxaxazaFaxaxaA
+awaxaxaxaxaxaxaxaGaHaHaIaxaxaxaEaxaxaxaA
+awaxaxaxaxaxaxaxaJaKaKaLaxaxaxaxaxaxaxaA
+awaxaxaxaxaxaxaxaMaNaNaOaxaxaxaxaxaxaxaA
+awaBaDaBaDaxaxaxaxaxaxaxaxaxaxaBaPaCaDaA
+awaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaQaA
+awaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaA
+awaxaxaxaRaxaxaxaxaxaxaxaxaxaxaRaxaxaxaA
+awaxaxaxazaxaxaxaxaxaxaxaxaxaxazaSaxaxaA
+aTaUaUaUaVaUaUaUaUaxaxaUaUaUaUaVaUaUaUaW
+aXaXaXaXaXaXaXaXaXaYaYaXaXaXaXaXaXaXaXaX
+"}

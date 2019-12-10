@@ -1,0 +1,29 @@
+"a" = (/turf/tile108,/turf/barrier,/area)
+"b" = (/turf/tile108,/area)
+"c" = (/turf/tile108,/turf/Triad/Triad_Corner4,/area)
+"d" = (/turf/tile108,/obj/NewWorld/CleanerPing,/turf/Triad/Triad_Side1,/area)
+"e" = (/turf/tile108,/turf/Triad/Triad_Corner1,/area)
+"f" = (/turf/tile108,/turf/Triad/Triad_Side3,/area)
+"g" = (/turf/Triad,/turf/Area/Cleaned,/area)
+"h" = (/turf/tile108,/turf/Triad/Triad_Side2,/area)
+"i" = (/turf/tile108,/turf/Triad/Triad_Corner3,/area)
+"j" = (/turf/tile108,/turf/Triad/Triad_Side4,/area)
+"k" = (/turf/tile108,/turf/Triad/Triad_Corner2,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaa
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbcdebbbbba
+abbbbbfghbbbbba
+abbbbbijkbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+aaaaaaaaaaaaaaa
+"}

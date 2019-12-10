@@ -1,0 +1,1026 @@
+"aa" = (/turf,/area)
+"ab" = (/turf/tile119,/turf/opacity,/area)
+"ac" = (/turf/tile116,/turf/opacity,/area)
+"ad" = (/turf/tile120,/turf/opacity,/area)
+"ae" = (/turf/opacity,/area)
+"af" = (/turf/tile117,/turf/tile121,/turf/opacity,/area)
+"ag" = (/turf/tile117,/turf/NewWorld/Decor/Closeth/C3,/turf/NewWorld/Decor/Closeth/C1,/area)
+"ah" = (/turf/tile117,/turf/tile79,/area)
+"ai" = (/turf/tile117,/turf/NewWorld/Decor/Closeth/C3,/area)
+"aj" = (/turf/tile117,/area)
+"ak" = (/obj/Paintings/Painting_04,/turf/tile117,/area)
+"al" = (/turf/tile117,/turf/tile78,/turf/NewWorld/Decor/Closeth/C1,/turf/tile78,/area)
+"am" = (/turf/tile117,/turf/NewWorld/Decor/Closeth/C1,/turf/tile78,/area)
+"an" = (/turf/tile117,/turf/tile122,/turf/opacity,/area)
+"ao" = (/obj/Paintings/Painting_03,/turf/tile117,/area)
+"ap" = (/turf/tile117,/turf/tile78,/turf/NewWorld/Decor/Closeth/C1,/area)
+"aq" = (/turf/tile117,/turf/NewWorld/Decor/Closeth/C1,/area)
+"ar" = (/obj/Paintings/Painting_02,/turf/tile117,/area)
+"as" = (/obj/Paintings/Painting_01,/turf/tile117,/area)
+"at" = (/turf/tile117,/turf/tile78,/area)
+"au" = (/turf/tile61,/turf/tile118,/turf/tile121,/turf/opacity,/area)
+"av" = (/turf/tile61,/turf/tile118,/turf/NewWorld/Decor/Closeth/C4,/turf/NewWorld/Decor/Closeth/C2,/area)
+"aw" = (/turf/tile61,/turf/tile118,/obj/tile80,/turf/tile65,/area)
+"ax" = (/turf/tile61,/turf/tile118,/turf/NewWorld/Decor/Closeth/C4,/area)
+"ay" = (/turf/tile61,/turf/tile118,/area)
+"az" = (/turf/tile61,/turf/tile118,/turf/tile77,/turf/NewWorld/Decor/Closeth/C2,/turf/tile77,/area)
+"aA" = (/turf/tile61,/turf/tile118,/turf/NewWorld/Decor/Closeth/C2,/turf/tile77,/area)
+"aB" = (/turf/tile61,/turf/tile118,/turf/tile122,/turf/opacity,/area)
+"aC" = (/turf/tile61,/obj/tile72,/turf/tile118,/area)
+"aD" = (/turf/tile61,/turf/tile118,/turf/tile77,/turf/NewWorld/Decor/Closeth/C2,/area)
+"aE" = (/turf/tile61,/turf/tile118,/turf/NewWorld/Decor/Closeth/C2,/area)
+"aF" = (/turf/tile61,/turf/tile118,/turf/tile77,/area)
+"aG" = (/turf/tile61,/turf/tile121,/turf/opacity,/area)
+"aH" = (/turf/tile107,/area)
+"aI" = (/turf/tile107,/turf/tile67,/turf/NewWorld/Decor/Table_Decor/O1,/area)
+"aJ" = (/obj/chair2,/mob/PowerNPC/Good_Race,/turf/tile107,/area)
+"aK" = (/turf/tile61,/turf/tile122,/turf/opacity,/area)
+"aL" = (/turf/tile107,/turf/tile67,/area)
+"aM" = (/obj/chair2,/turf/tile107,/area)
+"aN" = (/obj/chair2,/mob/PowerNPC/Good_Teleport,/turf/tile107,/area)
+"aO" = (/turf/tile107,/turf/tile73,/area)
+"aP" = (/turf/tile107,/turf/tile74,/area)
+"aQ" = (/turf/tile107,/turf/tile74,/turf/NewWorld/Decor/Table_Decor/O1{layer = 4},/area)
+"aR" = (/turf/tile107,/turf/tile75,/area)
+"aS" = (/turf/tile107,/turf/tile74,/turf/NewWorld/Decor/Table_Decor/O1,/area)
+"aT" = (/turf/tile107,/turf/NewWorld/Decor/Table/T1,/area)
+"aU" = (/turf/tile107,/turf/NewWorld/Decor/Table/T3,/turf/NewWorld/Decor/Table_Decor/O1{layer = 4},/area)
+"aV" = (/turf/tile107,/turf/NewWorld/Decor/Table/T3,/area)
+"aW" = (/turf/tile107,/turf/NewWorld/Decor/Table/T1,/turf/Training_book_Intelligence_2,/area)
+"aX" = (/turf/tile107,/turf/NewWorld/Decor/Table/T3,/turf/Training_book_Intelligence_2,/area)
+"aY" = (/turf/tile107,/turf/NewWorld/Decor/Table/T1,/turf/NewWorld/Decor/Table_Decor/O1{layer = 4},/area)
+"aZ" = (/obj/chair1,/turf/tile107,/area)
+"ba" = (/turf/tile61,/turf/tile121,/turf/tile170,/turf/NewWorld/Decor/Wall/W1,/turf/opacity,/area)
+"bb" = (/turf/tile61,/turf/tile170,/turf/opacity,/area)
+"bc" = (/turf/tile61,/turf/tile171,/turf/opacity,/area)
+"bd" = (/turf/tile61,/turf/tile172,/turf/opacity,/area)
+"be" = (/turf/tile61,/turf/tile122,/turf/tile170,/turf/NewWorld/Decor/Wall/W2,/turf/opacity,/area)
+"bf" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W7,/area)
+"bg" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W8,/area)
+"bh" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W7,/turf/opacity,/area)
+"bi" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W5,/area)
+"bj" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W6,/area)
+"bk" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W3,/area)
+"bl" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W4,/area)
+"bm" = (/turf/tile61,/turf/tile170,/turf/tile121,/turf/NewWorld/Decor/Wall/W1,/turf/opacity,/area)
+"bn" = (/turf/tile117,/turf/NewWorld/Decor/Plant{tag = ""; icon_state = "0,1"},/area)
+"bo" = (/turf/tile117,/turf/tile78,/turf/NewWorld/Decor/Closeth/C3,/area)
+"bp" = (/turf/tile61,/turf/tile118,/turf/NewWorld/Decor/Plant{tag = ""; icon_state = "0,0"},/area)
+"bq" = (/turf/tile61,/turf/tile118,/turf/tile77,/turf/NewWorld/Decor/Closeth/C4,/area)
+"br" = (/turf/tile61,/turf/tile118,/turf/tile65,/area)
+"bs" = (/turf/tile61,/turf/tile118,/turf/NewWorld/Decor/Lava_Pot/Lava_Pot2,/area)
+"bt" = (/turf/barrier,/area)
+"bu" = (/turf/tile119,/turf/density,/area)
+"bv" = (/turf/tile116,/turf/density,/area)
+"bw" = (/turf/tile120,/turf/density,/area)
+"bx" = (/turf/tile125b,/turf/barrier,/turf/opacity,/area)
+"by" = (/obj/chair2,/mob/PowerNPC/Good_Powers,/turf/tile107,/area)
+"bz" = (/turf/tile61,/area)
+"bA" = (/turf/tile61,/obj/tile80,/turf/tile66,/area)
+"bB" = (/turf/tile81,/area)
+"bC" = (/obj/Book_of_Spells,/turf/tile61,/area)
+"bD" = (/turf/NewWorld/Decor/Lava_Pot,/area)
+"bE" = (/turf/tile117,/turf/tile121,/turf/density,/area)
+"bF" = (/turf/tile117,/turf/density,/area)
+"bG" = (/turf/tile117,/turf/density,/turf/tile79,/area)
+"bH" = (/turf/tile117,/turf/density,/turf/tile78,/turf/NewWorld/Decor/Closeth/C1,/area)
+"bI" = (/turf/tile117,/turf/tile122,/turf/density,/area)
+"bJ" = (/turf/tile107,/turf/NewWorld/Decor/Table/T2,/turf/NewWorld/Decor/Table_Decor/O1{layer = 4},/area)
+"bK" = (/turf/tile61,/turf/tile73,/area)
+"bL" = (/turf/tile61,/turf/tile74,/area)
+"bM" = (/turf/tile61,/turf/tile75,/area)
+"bN" = (/turf/tile61,/turf/tile67,/turf/NewWorld/Decor/Table_Decor/O2,/area)
+"bO" = (/turf/tile61,/turf/tile118,/turf/tile83,/area)
+"bP" = (/turf/tile61,/turf/tile118,/turf/tile84,/area)
+"bQ" = (/turf/tile107,/obj/BookOf/Book_Of_Evil,/turf/tile66,/area)
+"bR" = (/turf/tile107,/turf/NewWorld/Decor/Plant{tag = ""; icon_state = "0,1"},/area)
+"bS" = (/turf/tile107,/turf/NewWorld/Decor/Throne/Throne1,/area)
+"bT" = (/turf/tile107,/turf/tile66,/area)
+"bU" = (/turf/tile61,/turf/NewWorld/Decor/Table/T1,/turf/Training_book_Intelligence,/area)
+"bV" = (/turf/tile61,/turf/NewWorld/Decor/Table/T3,/turf/Training_book_Intelligence,/area)
+"bW" = (/turf/tile107,/turf/NewWorld/Decor/Plant{tag = ""; icon_state = "0,0"},/area)
+"bX" = (/turf/tile107,/turf/NewWorld/Decor/Table/T2,/turf/NewWorld/Decor/Table_Decor/O1,/area)
+"bY" = (/obj/chair1,/turf/tile61,/area)
+"bZ" = (/turf/tile107,/turf/NewWorld/Decor/Table/T2,/area)
+"ca" = (/turf/tile107,/obj/NewWorld/Plant/P1,/turf/tile65,/area)
+"cb" = (/mob/PowerNPC/Good_Power_Informant,/turf/tile107,/area)
+"cc" = (/turf/tile125b,/turf/opacity,/area)
+"cd" = (/turf/tile61,/turf/tile121,/turf/NewWorld/Decor/Wall/W1,/turf/opacity,/area)
+"ce" = (/turf/tile61,/turf/tile122,/turf/NewWorld/Decor/Wall/W2,/turf/opacity,/area)
+"cf" = (/turf/tile116,/turf/density,/turf/opacity,/area)
+"cg" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W8,/turf/opacity,/area)
+"ch" = (/turf/tile116,/turf/tile122,/turf/density,/turf/opacity,/area)
+"ci" = (/turf/tile117,/obj/Paintings/Painting_01,/turf/density,/area)
+"cj" = (/turf/tile61,/turf/tile121,/turf/tile118,/turf/tile121,/turf/opacity,/area)
+"ck" = (/turf/tile61,/turf/tile122,/turf/tile118,/turf/tile122,/turf/density,/area)
+"cl" = (/turf/tile107,/turf/tile121,/turf/opacity,/area)
+"cm" = (/turf/tile107,/turf/tile122,/turf/density,/area)
+"cn" = (/turf/tile61,/turf/tile121,/turf/tile170,/turf/tile121,/turf/opacity,/area)
+"co" = (/turf/tile61,/turf/tile122,/turf/tile170,/turf/tile122,/turf/density,/turf/opacity,/area)
+"cp" = (/turf/tile125b,/turf/barrier,/area)
+"cq" = (/turf/tile107,/turf/tile118,/turf/tile121,/turf/opacity,/area)
+"cr" = (/turf/tile107,/turf/tile118,/area)
+"cs" = (/turf/tile107,/obj/tile72,/turf/tile118,/area)
+"ct" = (/turf/tile107,/turf/tile118,/turf/tile77,/area)
+"cu" = (/turf/tile107,/turf/tile118,/turf/tile73,/area)
+"cv" = (/turf/tile107,/turf/tile118,/turf/tile74,/area)
+"cw" = (/turf/tile107,/turf/tile118,/turf/tile75,/area)
+"cx" = (/turf/tile107,/turf/tile118,/turf/tile122,/turf/opacity,/area)
+"cy" = (/turf/tile107,/turf/tile65,/area)
+"cz" = (/turf/tile107,/mob/Training_machine,/turf/NewWorld/Floor/Carpet/Blue/c1,/area)
+"cA" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Blue/c2,/area)
+"cB" = (/turf/tile107,/mob/Training_machine,/turf/NewWorld/Floor/Carpet/Blue/c3,/area)
+"cC" = (/turf/tile107,/turf/tile122,/turf/opacity,/area)
+"cD" = (/turf/tile85,/turf/opacity,/area)
+"cE" = (/turf/tile63,/area)
+"cF" = (/turf/tile86,/turf/opacity,/area)
+"cG" = (/turf/tile107,/obj/tile80,/turf/tile66,/area)
+"cH" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Blue/c4,/area)
+"cI" = (/turf/NewWorld/Floor/Carpet/Blue/c9,/area)
+"cJ" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Blue/c5,/area)
+"cK" = (/obj/chair4,/turf/tile107,/area)
+"cL" = (/obj/tile76,/turf/tile107,/area)
+"cM" = (/turf/tile107,/turf/tile67,/turf/NewWorld/Decor/Table_Decor/O2,/area)
+"cN" = (/turf/tile107,/turf/NewWorld/Teleport/School/MagicSchoolExit,/area)
+"cO" = (/turf/tile61,/turf/tile121,/turf/tile170,/turf/tile121,/turf/opacity,/turf/NewWorld/Decor/Wall/W1,/turf/opacity,/area)
+"cP" = (/turf/tile107,/turf/tile170,/turf/opacity,/area)
+"cQ" = (/turf/tile61,/turf/tile122,/turf/tile170,/turf/tile122,/turf/opacity,/turf/NewWorld/Decor/Wall/W2,/turf/opacity,/area)
+"cR" = (/turf/tile107,/mob/Training_machine,/turf/NewWorld/Floor/Carpet/Blue/c6,/area)
+"cS" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Blue/c7,/area)
+"cT" = (/turf/tile107,/mob/Training_machine,/turf/NewWorld/Floor/Carpet/Blue/c8,/area)
+"cU" = (/turf/tile107,/turf/tile121,/turf/tile170,/turf/NewWorld/Decor/Wall/W1,/turf/opacity,/area)
+"cV" = (/turf/tile107,/turf/tile171,/turf/opacity,/area)
+"cW" = (/turf/tile107,/turf/tile172,/turf/opacity,/area)
+"cX" = (/turf/tile107,/turf/tile122,/turf/tile170,/turf/NewWorld/Decor/Wall/W2,/turf/opacity,/area)
+"cY" = (/turf/tile117,/turf/numbers/nr1,/area)
+"cZ" = (/turf/tile61,/turf/tile118,/turf/tile73,/area)
+"da" = (/turf/tile61,/turf/tile118,/turf/tile74,/area)
+"db" = (/turf/tile61,/turf/tile118,/turf/tile75,/area)
+"dc" = (/turf/tile61,/turf/tile170,/turf/tile121,/turf/opacity,/turf/NewWorld/Decor/Wall/W1,/area)
+"dd" = (/turf/tile61,/turf/tile171,/area)
+"de" = (/turf/tile61,/turf/tile121,/area)
+"df" = (/turf/tile125b,/area)
+"dg" = (/turf/tile61,/turf/tile121,/turf/density,/area)
+"dh" = (/turf/tile107,/turf/tile118,/turf/NewWorld/Decor/Closeth/C4,/area)
+"di" = (/turf/tile107,/obj/NewWorld/Plant/P1,/turf/tile118,/area)
+"dj" = (/turf/tile107,/obj/tile76,/turf/tile118,/area)
+"dk" = (/turf/tile107,/mob/Training_machine2,/turf/tile98,/area)
+"dl" = (/turf/tile107,/turf/tile99,/area)
+"dm" = (/turf/tile107,/mob/Training_machine2,/turf/tile100,/area)
+"dn" = (/turf/tile107,/mob/Training_machine3,/turf/NewWorld/Floor/Carpet/Green/c1,/area)
+"do" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Green/c2,/area)
+"dp" = (/turf/tile107,/mob/Training_machine3,/turf/NewWorld/Floor/Carpet/Green/c3,/area)
+"dq" = (/turf/tile107,/turf/NewWorld/Decor/Wall/W8,/turf/opacity,/area)
+"dr" = (/turf/tile107,/turf/NewWorld/Decor/Wall/W7,/turf/opacity,/area)
+"ds" = (/turf/tile107,/turf/tile101,/area)
+"dt" = (/turf/tile106,/area)
+"du" = (/turf/tile107,/turf/tile102,/area)
+"dv" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Green/c4,/area)
+"dw" = (/turf/NewWorld/Floor/Carpet/Green/c9,/area)
+"dx" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Green/c5,/area)
+"dy" = (/turf/tile107,/turf/NewWorld/Decor/Wall/W6,/turf/opacity,/area)
+"dz" = (/turf/tile117,/turf/numbers/nr3,/turf/opacity,/area)
+"dA" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W5,/turf/opacity,/area)
+"dB" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W6,/turf/opacity,/area)
+"dC" = (/turf/tile117,/turf/opacity,/area)
+"dD" = (/turf/tile117,/turf/numbers/nr2,/turf/opacity,/area)
+"dE" = (/turf/tile107,/turf/NewWorld/Decor/Wall/W5,/turf/opacity,/area)
+"dF" = (/turf/tile107,/turf/NewWorld/Decor/Wall/W4,/area)
+"dG" = (/turf/tile107,/turf/NewWorld/Decor/Wall/W3,/area)
+"dH" = (/turf/tile61,/turf/tile170,/turf/tile122,/turf/opacity,/turf/NewWorld/Decor/Wall/W2,/turf/opacity,/area)
+"dI" = (/turf/tile107,/mob/Training_machine2,/turf/tile103,/area)
+"dJ" = (/turf/tile107,/turf/tile104,/area)
+"dK" = (/turf/tile107,/mob/Training_machine2,/turf/tile105,/area)
+"dL" = (/turf/tile107,/mob/Training_machine3,/turf/NewWorld/Floor/Carpet/Green/c6,/area)
+"dM" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Green/c7,/area)
+"dN" = (/turf/tile107,/mob/Training_machine3,/turf/NewWorld/Floor/Carpet/Green/c8,/area)
+"dO" = (/turf/tile107,/turf/tile121,/turf/tile170,/turf/opacity,/turf/NewWorld/Decor/Wall/W1,/turf/opacity,/area)
+"dP" = (/turf/tile107,/turf/tile122,/turf/tile170,/turf/opacity,/turf/NewWorld/Decor/Wall/W2,/turf/opacity,/area)
+"dQ" = (/turf/tile107,/turf/tile170,/turf/tile122,/turf/opacity,/turf/NewWorld/Decor/Wall/W2,/turf/opacity,/area)
+"dR" = (/turf/tile61,/turf/tile122,/turf/density,/area)
+"dS" = (/turf/tile107,/turf/NewWorld/Teleport/School/MagicSchoolPart1,/area)
+"dT" = (/turf/tile98,/area)
+"dU" = (/turf/tile99,/area)
+"dV" = (/turf/tile100,/area)
+"dW" = (/turf/tile101,/area)
+"dX" = (/obj/RPNPC/NPC_01,/turf/tile106,/area)
+"dY" = (/obj/RPNPC/NPC_02,/turf/tile106,/area)
+"dZ" = (/turf/tile102,/area)
+"ea" = (/turf/tile106,/turf/tile64,/turf/RP/NewZone,/area)
+"eb" = (/turf/tile103,/area)
+"ec" = (/turf/tile104,/area)
+"ed" = (/turf/tile105,/area)
+"ee" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,19"},/turf/barrier,/area)
+"ef" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,19"},/turf/barrier,/area)
+"eg" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,19"},/turf/barrier,/area)
+"eh" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,19"},/turf/barrier,/area)
+"ei" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,19"},/turf/barrier,/area)
+"ej" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,19"},/turf/barrier,/area)
+"ek" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,19"},/turf/barrier,/area)
+"el" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,19"},/turf/barrier,/area)
+"em" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,19"},/turf/barrier,/area)
+"en" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,19"},/turf/barrier,/area)
+"eo" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,19"},/turf/barrier,/area)
+"ep" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,19"},/turf/barrier,/area)
+"eq" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,19"},/turf/barrier,/area)
+"er" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,19"},/turf/barrier,/area)
+"es" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,19"},/turf/barrier,/area)
+"et" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,19"},/turf/barrier,/area)
+"eu" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,19"},/turf/barrier,/area)
+"ev" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,19"},/turf/barrier,/area)
+"ew" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,19"},/turf/barrier,/area)
+"ex" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,19"},/turf/barrier,/area)
+"ey" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,19"},/turf/barrier,/area)
+"ez" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,18"},/area)
+"eA" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,18"},/area)
+"eB" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,18"},/area)
+"eC" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,18"},/area)
+"eD" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,18"},/area)
+"eE" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,18"},/area)
+"eF" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,18"},/area)
+"eG" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,18"},/area)
+"eH" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,18"},/area)
+"eI" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,18"},/area)
+"eJ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,18"},/area)
+"eK" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,18"},/area)
+"eL" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,18"},/area)
+"eM" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,18"},/area)
+"eN" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,18"},/area)
+"eO" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,18"},/area)
+"eP" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,18"},/area)
+"eQ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,18"},/area)
+"eR" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,18"},/area)
+"eS" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,18"},/area)
+"eT" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,18"},/area)
+"eU" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,17"},/area)
+"eV" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,17"},/area)
+"eW" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,17"},/area)
+"eX" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,17"},/area)
+"eY" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,17"},/area)
+"eZ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,17"},/area)
+"fa" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,17"},/area)
+"fb" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,17"},/area)
+"fc" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,17"},/area)
+"fd" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,17"},/area)
+"fe" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,17"},/area)
+"ff" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,17"},/area)
+"fg" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,17"},/area)
+"fh" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,17"},/area)
+"fi" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,17"},/area)
+"fj" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,17"},/area)
+"fk" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,17"},/area)
+"fl" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,17"},/area)
+"fm" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,17"},/area)
+"fn" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,17"},/area)
+"fo" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,17"},/area)
+"fp" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,16"},/area)
+"fq" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,16"},/area)
+"fr" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,16"},/area)
+"fs" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,16"},/area)
+"ft" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,16"},/area)
+"fu" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,16"},/area)
+"fv" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,16"},/area)
+"fw" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,16"},/area)
+"fx" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,16"},/area)
+"fy" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,16"},/area)
+"fz" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,16"},/area)
+"fA" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,16"},/area)
+"fB" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,16"},/area)
+"fC" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,16"},/area)
+"fD" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,16"},/area)
+"fE" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,16"},/area)
+"fF" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,16"},/area)
+"fG" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,16"},/area)
+"fH" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,16"},/area)
+"fI" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,16"},/area)
+"fJ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,16"},/area)
+"fK" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,15"},/area)
+"fL" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,15"},/area)
+"fM" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,15"},/area)
+"fN" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,15"},/area)
+"fO" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,15"},/area)
+"fP" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,15"},/area)
+"fQ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,15"},/area)
+"fR" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,15"},/area)
+"fS" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,15"},/area)
+"fT" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,15"},/area)
+"fU" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,15"},/area)
+"fV" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,15"},/area)
+"fW" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,15"},/area)
+"fX" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,15"},/area)
+"fY" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,15"},/area)
+"fZ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,15"},/area)
+"ga" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,15"},/area)
+"gb" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,15"},/area)
+"gc" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,15"},/area)
+"gd" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,15"},/area)
+"ge" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,15"},/area)
+"gf" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,14"},/area)
+"gg" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,14"},/area)
+"gh" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,14"},/area)
+"gi" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,14"},/area)
+"gj" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,14"},/area)
+"gk" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,14"},/area)
+"gl" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,14"},/area)
+"gm" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,14"},/area)
+"gn" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,14"},/area)
+"go" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,14"},/area)
+"gp" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,14"},/area)
+"gq" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,14"},/area)
+"gr" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,14"},/area)
+"gs" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,14"},/area)
+"gt" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,14"},/area)
+"gu" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,14"},/area)
+"gv" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,14"},/area)
+"gw" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,14"},/area)
+"gx" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,14"},/area)
+"gy" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,14"},/area)
+"gz" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,14"},/area)
+"gA" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,13"},/area)
+"gB" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,13"},/area)
+"gC" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,13"},/area)
+"gD" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,13"},/area)
+"gE" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,13"},/area)
+"gF" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,13"},/area)
+"gG" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,13"},/area)
+"gH" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,13"},/area)
+"gI" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,13"},/area)
+"gJ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,13"},/area)
+"gK" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,13"},/area)
+"gL" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,13"},/area)
+"gM" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,13"},/area)
+"gN" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,13"},/area)
+"gO" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,13"},/area)
+"gP" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,13"},/area)
+"gQ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,13"},/area)
+"gR" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,13"},/area)
+"gS" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,13"},/area)
+"gT" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,13"},/area)
+"gU" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,13"},/area)
+"gV" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,12"},/area)
+"gW" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,12"},/area)
+"gX" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,12"},/area)
+"gY" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,12"},/area)
+"gZ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,12"},/area)
+"ha" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,12"},/area)
+"hb" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,12"},/area)
+"hc" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,12"},/area)
+"hd" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,12"},/area)
+"he" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,12"},/area)
+"hf" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,12"},/area)
+"hg" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,12"},/area)
+"hh" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,12"},/area)
+"hi" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,12"},/area)
+"hj" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,12"},/area)
+"hk" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,12"},/area)
+"hl" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,12"},/area)
+"hm" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,12"},/area)
+"hn" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,12"},/area)
+"ho" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,12"},/area)
+"hp" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,12"},/area)
+"hq" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,11"},/area)
+"hr" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,11"},/area)
+"hs" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,11"},/area)
+"ht" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,11"},/area)
+"hu" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,11"},/area)
+"hv" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,11"},/area)
+"hw" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,11"},/area)
+"hx" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,11"},/area)
+"hy" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,11"},/area)
+"hz" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,11"},/area)
+"hA" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,11"},/area)
+"hB" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,11"},/area)
+"hC" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,11"},/area)
+"hD" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,11"},/area)
+"hE" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,11"},/area)
+"hF" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,11"},/area)
+"hG" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,11"},/area)
+"hH" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,11"},/area)
+"hI" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,11"},/area)
+"hJ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,11"},/area)
+"hK" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,11"},/area)
+"hL" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,10"},/area)
+"hM" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,10"},/area)
+"hN" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,10"},/area)
+"hO" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,10"},/area)
+"hP" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,10"},/area)
+"hQ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,10"},/area)
+"hR" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,10"},/area)
+"hS" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,10"},/area)
+"hT" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,10"},/turf/barrier,/area)
+"hU" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,10"},/turf/barrier,/area)
+"hV" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,10"},/turf/barrier,/area)
+"hW" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,10"},/area)
+"hX" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,10"},/area)
+"hY" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,10"},/area)
+"hZ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,10"},/area)
+"ia" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,10"},/area)
+"ib" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,10"},/area)
+"ic" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,10"},/area)
+"id" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,10"},/area)
+"ie" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,10"},/area)
+"if" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,10"},/area)
+"ig" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,9"},/area)
+"ih" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,9"},/area)
+"ii" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,9"},/area)
+"ij" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,9"},/area)
+"ik" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,9"},/area)
+"il" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,9"},/area)
+"im" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,9"},/area)
+"in" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,9"},/area)
+"io" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,9"},/turf/barrier,/area)
+"ip" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,9"},/obj/startscreen,/turf/RP/Start_Screen,/area)
+"iq" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,9"},/turf/barrier,/area)
+"ir" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,9"},/area)
+"is" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,9"},/area)
+"it" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,9"},/area)
+"iu" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,9"},/area)
+"iv" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,9"},/area)
+"iw" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,9"},/area)
+"ix" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,9"},/area)
+"iy" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,9"},/area)
+"iz" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,9"},/area)
+"iA" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,9"},/area)
+"iB" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,8"},/area)
+"iC" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,8"},/area)
+"iD" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,8"},/area)
+"iE" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,8"},/area)
+"iF" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,8"},/area)
+"iG" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,8"},/area)
+"iH" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,8"},/area)
+"iI" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,8"},/area)
+"iJ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,8"},/turf/barrier,/area)
+"iK" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,8"},/turf/barrier,/area)
+"iL" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,8"},/turf/barrier,/area)
+"iM" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,8"},/area)
+"iN" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,8"},/area)
+"iO" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,8"},/area)
+"iP" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,8"},/area)
+"iQ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,8"},/area)
+"iR" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,8"},/area)
+"iS" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,8"},/area)
+"iT" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,8"},/area)
+"iU" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,8"},/area)
+"iV" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,8"},/area)
+"iW" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,7"},/area)
+"iX" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,7"},/area)
+"iY" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,7"},/area)
+"iZ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,7"},/area)
+"ja" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,7"},/area)
+"jb" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,7"},/area)
+"jc" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,7"},/area)
+"jd" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,7"},/area)
+"je" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,7"},/area)
+"jf" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,7"},/area)
+"jg" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,7"},/area)
+"jh" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,7"},/area)
+"ji" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,7"},/area)
+"jj" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,7"},/area)
+"jk" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,7"},/area)
+"jl" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,7"},/area)
+"jm" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,7"},/area)
+"jn" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,7"},/area)
+"jo" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,7"},/area)
+"jp" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,7"},/area)
+"jq" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,7"},/area)
+"jr" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,6"},/area)
+"js" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,6"},/area)
+"jt" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,6"},/area)
+"ju" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,6"},/area)
+"jv" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,6"},/area)
+"jw" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,6"},/area)
+"jx" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,6"},/area)
+"jy" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,6"},/area)
+"jz" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,6"},/area)
+"jA" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,6"},/area)
+"jB" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,6"},/area)
+"jC" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,6"},/area)
+"jD" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,6"},/area)
+"jE" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,6"},/area)
+"jF" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,6"},/area)
+"jG" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,6"},/area)
+"jH" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,6"},/area)
+"jI" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,6"},/area)
+"jJ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,6"},/area)
+"jK" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,6"},/area)
+"jL" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,6"},/area)
+"jM" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,5"},/area)
+"jN" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,5"},/area)
+"jO" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,5"},/area)
+"jP" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,5"},/area)
+"jQ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,5"},/area)
+"jR" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,5"},/area)
+"jS" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,5"},/area)
+"jT" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,5"},/area)
+"jU" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,5"},/area)
+"jV" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,5"},/area)
+"jW" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,5"},/area)
+"jX" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,5"},/area)
+"jY" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,5"},/area)
+"jZ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,5"},/area)
+"ka" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,5"},/area)
+"kb" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,5"},/area)
+"kc" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,5"},/area)
+"kd" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,5"},/area)
+"ke" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,5"},/area)
+"kf" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,5"},/area)
+"kg" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,5"},/area)
+"kh" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,4"},/area)
+"ki" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,4"},/area)
+"kj" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,4"},/area)
+"kk" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,4"},/area)
+"kl" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,4"},/area)
+"km" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,4"},/area)
+"kn" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,4"},/area)
+"ko" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,4"},/area)
+"kp" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,4"},/area)
+"kq" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,4"},/area)
+"kr" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,4"},/area)
+"ks" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,4"},/area)
+"kt" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,4"},/area)
+"ku" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,4"},/area)
+"kv" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,4"},/area)
+"kw" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,4"},/area)
+"kx" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,4"},/area)
+"ky" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,4"},/area)
+"kz" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,4"},/area)
+"kA" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,4"},/area)
+"kB" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,4"},/area)
+"kC" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,3"},/area)
+"kD" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,3"},/area)
+"kE" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,3"},/area)
+"kF" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,3"},/area)
+"kG" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,3"},/area)
+"kH" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,3"},/area)
+"kI" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,3"},/area)
+"kJ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,3"},/area)
+"kK" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,3"},/area)
+"kL" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,3"},/area)
+"kM" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,3"},/area)
+"kN" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,3"},/area)
+"kO" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,3"},/area)
+"kP" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,3"},/area)
+"kQ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,3"},/area)
+"kR" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,3"},/area)
+"kS" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,3"},/area)
+"kT" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,3"},/area)
+"kU" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,3"},/area)
+"kV" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,3"},/area)
+"kW" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,3"},/area)
+"kX" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,2"},/area)
+"kY" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,2"},/area)
+"kZ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,2"},/area)
+"la" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,2"},/area)
+"lb" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,2"},/area)
+"lc" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,2"},/area)
+"ld" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,2"},/area)
+"le" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,2"},/area)
+"lf" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,2"},/area)
+"lg" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,2"},/area)
+"lh" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,2"},/area)
+"li" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,2"},/area)
+"lj" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,2"},/area)
+"lk" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,2"},/area)
+"ll" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,2"},/area)
+"lm" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,2"},/area)
+"ln" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,2"},/area)
+"lo" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,2"},/area)
+"lp" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,2"},/area)
+"lq" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,2"},/area)
+"lr" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,2"},/area)
+"ls" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,1"},/area)
+"lt" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,1"},/area)
+"lu" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,1"},/area)
+"lv" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,1"},/area)
+"lw" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,1"},/area)
+"lx" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,1"},/area)
+"ly" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,1"},/area)
+"lz" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,1"},/area)
+"lA" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,1"},/area)
+"lB" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,1"},/area)
+"lC" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,1"},/area)
+"lD" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,1"},/area)
+"lE" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,1"},/area)
+"lF" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,1"},/area)
+"lG" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,1"},/area)
+"lH" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,1"},/area)
+"lI" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,1"},/area)
+"lJ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,1"},/area)
+"lK" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,1"},/area)
+"lL" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,1"},/area)
+"lM" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,1"},/area)
+"lN" = (/turf/RP/Title_Screen{tag = ""; icon_state = "0,0"},/area)
+"lO" = (/turf/RP/Title_Screen{tag = ""; icon_state = "1,0"},/area)
+"lP" = (/turf/RP/Title_Screen{tag = ""; icon_state = "2,0"},/area)
+"lQ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "3,0"},/area)
+"lR" = (/turf/RP/Title_Screen{tag = ""; icon_state = "4,0"},/area)
+"lS" = (/turf/RP/Title_Screen{tag = ""; icon_state = "5,0"},/area)
+"lT" = (/turf/RP/Title_Screen{tag = ""; icon_state = "6,0"},/area)
+"lU" = (/turf/RP/Title_Screen{tag = ""; icon_state = "7,0"},/area)
+"lV" = (/turf/RP/Title_Screen{tag = ""; icon_state = "8,0"},/area)
+"lW" = (/turf/RP/Title_Screen{tag = ""; icon_state = "9,0"},/area)
+"lX" = (/turf/RP/Title_Screen{tag = ""; icon_state = "10,0"},/area)
+"lY" = (/turf/RP/Title_Screen{tag = ""; icon_state = "11,0"},/area)
+"lZ" = (/turf/RP/Title_Screen{tag = ""; icon_state = "12,0"},/area)
+"ma" = (/turf/RP/Title_Screen{tag = ""; icon_state = "13,0"},/area)
+"mb" = (/turf/RP/Title_Screen{tag = ""; icon_state = "14,0"},/area)
+"mc" = (/turf/RP/Title_Screen{tag = ""; icon_state = "15,0"},/area)
+"md" = (/turf/RP/Title_Screen{tag = ""; icon_state = "16,0"},/area)
+"me" = (/turf/RP/Title_Screen{tag = ""; icon_state = "17,0"},/area)
+"mf" = (/turf/RP/Title_Screen{tag = ""; icon_state = "18,0"},/area)
+"mg" = (/turf/RP/Title_Screen{tag = ""; icon_state = "19,0"},/area)
+"mh" = (/turf/RP/Title_Screen{tag = ""; icon_state = "20,0"},/area)
+"mi" = (/turf/road,/turf/npc/NPC_Respawn1,/area)
+"mj" = (/turf/road,/area)
+"mk" = (/turf/road,/turf/npc/NPC_Respawn2,/area)
+"ml" = (/turf/road/road1,/turf/NPCDeadzone,/area)
+"mm" = (/turf/road,/turf/Area/Death,/area)
+"mn" = (/mob/monster/Darklighter1,/turf/road,/area)
+"mo" = (/turf/road,/turf/npc/NPC_Respawn3,/area)
+"mp" = (/turf/road,/turf/npc/NPC_Respawn4,/area)
+"mq" = (/turf/tile107,/turf/NewWorld/Teleport/School/MagicSchoolPart2,/area)
+"mr" = (/turf/tile119,/area)
+"ms" = (/turf/tile116,/area)
+"mt" = (/turf/tile120,/area)
+"mu" = (/turf/tile117,/turf/tile121,/area)
+"mv" = (/turf/tile117,/turf/tile122,/area)
+"mw" = (/turf/tile107,/turf/tile118,/turf/tile121,/area)
+"mx" = (/turf/tile107,/turf/tile118,/turf/NewWorld/Decor/Closeth/C2,/area)
+"my" = (/turf/tile107,/turf/tile118,/turf/tile122,/area)
+"mz" = (/turf/tile107,/turf/tile121,/area)
+"mA" = (/turf/tile107,/mob/Training_machine4,/turf/NewWorld/Floor/Carpet/Purple/p1,/area)
+"mB" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Purple/p2,/area)
+"mC" = (/turf/tile107,/mob/Training_machine4,/turf/NewWorld/Floor/Carpet/Purple/p3,/area)
+"mD" = (/turf/tile107,/turf/tile122,/area)
+"mE" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Purple/p4,/area)
+"mF" = (/turf/NewWorld/Floor/Carpet/Purple/p10,/area)
+"mG" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Purple/p5,/area)
+"mH" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Purple/p4,/turf/tile65,/area)
+"mI" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Purple/p4,/obj/tile80,/turf/tile66,/area)
+"mJ" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Purple/p6,/turf/tile67,/area)
+"mK" = (/turf/tile107,/turf/NewWorld/Floor/Carpet/Purple/p8,/area)
+"mL" = (/turf/tile107,/mob/Training_machine4,/turf/NewWorld/Floor/Carpet/Purple/p9,/area)
+"mM" = (/turf/tile107,/turf/NewWorld/Decor/Wall/W1,/area)
+"mN" = (/turf/tile107,/turf/tile170,/area)
+"mO" = (/turf/tile107,/turf/tile171,/area)
+"mP" = (/turf/tile107,/turf/tile172,/area)
+"mQ" = (/turf/tile107,/turf/NewWorld/Decor/Wall/W2,/area)
+"mR" = (/turf/tile61,/turf/tile122,/area)
+"mS" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W8,/turf/density,/area)
+"mT" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W7,/turf/density,/area)
+"mU" = (/turf/tile61,/turf/tile118,/turf/tile122,/turf/density,/area)
+"mV" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W1,/turf/density,/area)
+"mW" = (/turf/tile61,/turf/tile170,/turf/density,/area)
+"mX" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W2,/turf/density,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaabacacacacacacacacacacadaeabacacacacacacacacacacadaeaeabacacacacacacacacacacadae
+aaaaaaaaaaafagahaiajakajajajalamanaeafaiahajajajaoajajapaqanaeaeafaiahajarajajasajataqanae
+aaaaaaaaaaauavawaxayayayayayazaAaBaeauaxawaCayayayayayaDaEaBaeaeauaxawayayayayayaCaFaEaBae
+aaaaaaaaaaaGaHaIaHaHaHaJaHaHaHaHaKaeaGaHaLaHaHaMaHaHaHaHaHaKaeaeaGaHaLaHaHaNaHaHaHaHaHaKae
+aaaaaaaaaaaGaHaHaHaOaPaQaRaHaHaHaKaeaGaHaHaHaOaPaQaRaHaHaHaKaeaeaGaHaHaHaOaSaPaRaHaHaHaKae
+aaaaaaaaaaaGaHaHaHaHaHaHaHaHaHaHaKaeaGaHaHaHaHaHaHaHaHaHaHaKaeaeaGaHaHaHaHaHaHaHaHaHaHaKae
+aaaaaaaaaaaGaHaTaUaHaTaVaHaTaUaHaKaeaGaHaWaXaHaWaXaHaWaXaHaKaeaeaGaHaTaUaHaTaVaHaYaUaHaKae
+aaaaaaaaaaaGaHaZaZaHaZaZaHaZaZaHaKaeaGaHaZaZaHaZaZaHaZaZaHaKaeaeaGaHaZaZaHaZaZaHaZaZaHaKae
+aaaaaaaaaaaGaHaTaVaHaYaVaHaYaVaHaKaeaGaHaWaXaHaWaXaHaWaXaHaKaeaeaGaHaTaVaHaTaUaHaTaVaHaKae
+aaaaaaaaaaaGaHaZaZaHaZaZaHaZaZaHaKaeaGaHaZaZaHaZaZaHaZaZaHaKaeaeaGaHaZaZaHaZaZaHaZaZaHaKae
+aaaaaaaaaababbbbbbbcaHaHbdbbbbbbbeaebabbbbbbbcaHaHbdbbbbbbbeaeaebabbbbbbbcaHaHbdbbbbbbbeae
+aaaaaaaaaaaeaeaeaeaGaHaHaKaeaeaeaeaeaeaeaeaeaGaHaHaKaeaeaeaeaeaeaeaeaeaeaGaHaHaKaeaeaeaeae
+aaaaaaaaaaaeaeaeaeaGaHaHaKaeaeaeaeaeaeaeaeaeaGaHaHaKaeaeaeaeaeaeaeaeaeaeaGaHaHaKaeaeaeaeae
+aaaaaaaaabacacacacbfaHaHbgacacacacacacacacacbfaHaHbgacacacacacacacacacacbhaHaHaKaeaeaeaeae
+aaaaaaaaafajajajajbiaHaHbjajajajajajajajajajbiaHaHbjajajajajajajajajajajbiaHaHaKaeaeaeaeae
+aaaaaaaaauayayayaybkaHaHblayayayayayayayayaybkaHaHblayayayayayayayayayaybkaHaHaKaeaeaeaeae
+aaaaaaaaaGaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaKaeaeaeaeae
+aaaaaaaaaGaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaKaeaeaeaeae
+aaaaaaaabmbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbcaHbdbbbbbbbbbbbbbbbbbeaeaeaeaeae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaeaeaeaeaeaeaeaeaeaeaeaeaeaeaGaHaKaeaeaeaeaeaeaeaeaeaeaeaeaeaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaeaeaeaeaeaeaeaeaeaeaeaeaeaeaGaHaKaeaeaeaeaeaeaeaeaeaeaeaeaeaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaeaeaeaeaeaeaeaeaeaeaeaeaeaeaGaHaKaeaeaeaeaeaeaeaeaeaeaeaeaeae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaabacacacacacacacacacacacadaeaGaHaKaeabacacacacacacacacacacadae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaafbnajboatajarajaqahajbnanaeaGaHaKaeafatboaqahajajajasajajanae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaubpaybqaFayayayaEayaybpaBaeaGaHaKaeauaFbqaEaybrayayayaybsaBae
+btbubvbvbvbvbvbvbvbvbvbwbxbxaGaHaHaHaHaHbyaHaHaHaHaHaKbxaGaHaKbxaGbzbzbzbzbAbzbBbCbzbDaKae
+btbEbFbFbGbFbFbFbHbHbFbIbxbxaGaHaHaHaHaTbJaVaHaHaHaHaKbxaGaHaKbxaGbzbKbLbMbNbzbzbzbzbzaKae
+btauawbObPayayayaDaDawaBbxbxaGaHaHaHaHaHaHaHaHaHaHaHaKbxaGaHaKbxaGbzbzbzbzbzbzbzbzbzbzaKae
+btaGbQaHbRaHbSaHbRaHbTaKbxbxaGaHaYaVaHaTbJaVaHaYaVaHaKbxaGaHaKbxaGbzbUbVbzbUbVbzbUbVbzaKae
+btaGaLaHbWaTbXaVbWaHaLaKbxbxaGaHaZaZaHaZaZaZaHaZaZaHaKbxaGaHaKbxaGbzbYbYbzbYbYbzbYbYbzaKae
+btaGaHaHaHaZaZaZaHaHaHaKbxbxaGaHaHaHaHaHaHaHaHaHaHaHaKbxaGaHaKbxaGbzbzbzbzbzbzbzbzbzbzaKae
+btaGaHaHaHaHaHaHaHaHaHaKbxbxaGaHaTaUaHaYbZaVaHaYaVaHaKbxaGaHaKbxaGbzbUbVbzbUbVbzbUbVbzaKae
+btaGaHcacbaHaHaHaHcaaHaKbxbxaGaHaZaZaHaZaZaZaHaZaZaHaKbxaGaHaKbxaGbzbYbYbzbYbYbzbYbYbzaKae
+btaGaHaLaHaHaHaHaHaLaHaKbxbxaGaHaHaHaHaHaHaHaHaHaHaHaKbxaGaHaKbxaGbzbzbzbzbzbzbzbzbzbzaKae
+btaGaHaHbRaHaHaHbRaHaHaKbxbxbabbbbbbbbbbbcaHbdbbbbbbbebxaGaHaKbxbabbbbbbbbbcbzbdbbbbbbbeae
+btaGaHaHbWaHaHaHbWaHaHaKbxbxccccccccccccaGaHaKccccccccbxaGaHaKbxccccccccccaGbzaKccccccccae
+btcdbbbbbbbcaHbdbbbbbbcebxbxccccccccccccaGaHaKccccccccbxaGaHaKbxccccccccccaGbzaKccccccccae
+btabcfcfcfbhaHcgcfcfcfcfcfcfcfcfcfcfcfcfbhaHcgcfcfcfcfcfbhaHcgcfcfcfcfcfcfbhbzcgcfcfcfchae
+btbEbFcibFbiaHbjajajajapboatajajajajajajbiaHbjajajarajajbiaHbjajajaoajajajbibzbjajajajbIbt
+aacjayayaybkaHblayayayaDbqaFaybObPaCayaybkaHblayayayayaybkaHblayayayayayaybkbzblayayayckbt
+btclaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHcmbt
+btclaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHcmbt
+btcnbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbcaHaHbdbbbbbbbbbbbbbbbbbbbbbbbcaHaHbdbbbbbbbbbbbbbbcobt
+btcpabacacacacacacacacacacadcpcpcpaGaHaHaKbxcpcpcpcpcpcpabacacacbhaHaHcgacacacadbxbxbxbxbt
+aaccafajajahajatajajajajajancccccpaGaHaHaKbxccccccccccccafajajahbiaHaHbjajboatanccccccccaa
+aacccqcrcscrcrctcucvcwcrcscxcccccpaGaHaHaKbxccccccccccccaubObPaybkaHaHblaybqaFaBccccccccaa
+aeccclcyczcAcAcAcAcAcAcBaHcCcccccpcDcEcEcFbxccccccccccccaGaHaHaHaHaHaHaHaHaHaHaKccccccccaa
+aeccclcGcHcIcIcIcIcIcIcJaHcCcccccpcDcEcEcFbxccccccccccccaGaHaHaHaHaHaHaHaHaHaMaKccccccccaa
+aeccclaLcHcIcIcIcIcIcIcJaHcCcccccpcDcEcEcFbxccccccccccccaGaHaOaRaHaHaHaHaHcKcyaKccccccccaa
+aeccclcLcHcIcIcIcIcIcIcJaHcCcccccpaGaHaHaKbxccccccccccccaGaHaHaHaHaHaHaHaHcKcGaKccccccccaa
+aeccclcLcHcIcIcIcIcIcIcJaHcCcccccpaGaHaHaKbxccccccccccccaGaHaHaHaHaHaHaHaHcKcMaKccccccccaa
+aeccclcycHcIcIcIcIcIcIcJaHcCcccccpaGcNcNaKbxccccccccccccaGaHaOaRaHaHaHaHaHaHaZaKccccccccaa
+aeccclcGcHcIcIcIcIcIcIcJaHcCcccccpcOcPcPcQbxccccccccccccaGaHaHaHaHaHaHaHaHaHaHaKccccccccaa
+aeccclaLcRcScScScScScScTaHcCcccccpcpcpcpcpbxccccccccccccbabbbbbbbcaHaHbdbbbbbbbeccccccccaa
+aecccUcPcPcPcPcVaHaHcWcPcPcXccccccccccccccccccccccccccccccccccccaGaHaHaKccccccccccccccccaa
+aeccccccccccccaGaHaHcgacacacacacacacacacacacacacacacacacacacacacbhaHaHcgacacacacadccccccaa
+aaccccccccccccaGaHaHbjcYajajasaiaqajajajajajajajaoajajajajaqajajbiaHaHbjajajajajanccccccaa
+aaccccccccccccaGaHaHblayayayayaxaEbObPbBbObPayayayaycZdadbaEayaybkaHaHblayaCayayaBccccccaa
+aaccccccccccccclaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHcCccccccaa
+aaccccccccccccclaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHcCccccccaa
+aaccccccccccccdcddaHaHbdbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbcaHaHbdcQccccccaa
+aaccccccccccccccdeaHaHaKccccccccccccccccccccccccccccccccccccccccccccccccaGaHaHaKccccccccaa
+aaccccccccccccccdeaHaHaKccccccccccccccccccccccccccccccccccccccccccccccccaGaHaHaKccccccccaa
+aaccccccccccccccdeaHaHaKccccccccccccccccccccccccccccccccccccccccccccccccaGaHaHaKccccccccaa
+aadfdfdfdfdfdfccdeaHaHaKccccccccccccccccccccccccccccccccccccccccccccccccaGaHaHaKccccccccaa
+aadfdfdfdfdfdfccdeaHaHaKccccabacacacacacacacacadccabacacacacacacacacadccaGaHaHaKccccccccaa
+aadfdfdfdfdfdfccdeaHaHaKccccafajajaoajaiahajajanccafajajajajarajajajanccaGaHaHaKccccccccaa
+aadfdfdfdfdfdfccdgaHaHaKcccccqcrcucvcwdhdidjdjcxcccqcrcucvcwcrcrdjcscxccaGaHaHaKccccccccaa
+aadfdfdfdfdfdfccdgaHaHaKcccccldkdldldldldldldmcCcccldndododododododpdqacbhaHaHaKccccccccaa
+aadfdfdfdfdfdfccdgaHaHcgacacdrdsdtdtdtdtdtdtducCcccldvdwdwdwdwdwdwdxdydzdAaHaHaKccccccccaa
+aadfdfdfdfdfdfccdgaHaHdBdCdDdEdsdtdtdtdtdtdtducCcccldvdwdwdwdwdwdwdxdFaybkaHaHaKccccccccaa
+aadfdfdfdfdfdfccdgaHaHblayaydGdsdtdtdtdtdtdtducCcccldvdwdwdwdwdwdwdxaHaHaHaHaHaKccccccccaa
+aadfdfdfdfdfdfccdgaHaHaHaHaHaHdsdtdtdtdtdtdtducCcccldvdwdwdwdwdwdwdxaHaHaHaHaHaKccccccccaa
+aadfdfdfdfdfdfccdgaHaHaHaHaHaHdsdtdtdtdtdtdtducCcccldvdwdwdwdwdwdwdxcWbbbbbbbbdHccccccccaa
+aadfdfdfdfdfdfccdgaHaHbdbbbbcVdsdtdtdtdtdtdtducCcccldvdwdwdwdwdwdwdxcCaeaeaeaeaeccccccccae
+aadfdfdfdfdfdfccdgaHaHaKcccccldsdtdtdtdtdtdtducCcccldvdwdwdwdwdwdwdxcCccaeaeaeaeccccccccae
+aadfdfdfdfdfdfccdgaHaHaKcccccldIdJdJdJdJdJdJdKcCcccldLdMdMdMdMdMdMdNcCccaeaeaeaeccccccccae
+aadfdfdfdfdfdfccdgaHaHaKccccdOcPcPcPcPcPcPcPcPdPccdOcPcPcPcPcPcPcPcPdQccaeaeaeaeccccccccae
+aadfdfdfdfdfdfccdgaHaHaKccccccccccccccccccccccccccccccccccccccccccccaeccaeaeaeaeccccccccae
+aadfdfdfdfdfdfccdgaHaHaKccccccccccccccccccccccccccccccccccccccccccccaeccaeaeaeaeccccccccae
+aadfdfdfdfdfdfccdgaHaHaKccccccccccccccccccccccccccccccccccccccccccccaeccaeaeaeaeccccccccae
+aadfdfdfdfdfdfccdgaHaHaKccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccae
+aadfdfdfdfdfdfccdgaHaHdRccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccae
+aadfdfdfdfdfdfccdgaHaHdRccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccae
+aadfdfdfdfdfdfccdgdSdSdRccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccae
+"}
+
+(1,1,2) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabtbtbtbtbtbtbtbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabtdTdUdUdUdUdUdVbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabtdWdXdtdtdtdYdZbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabtdWdtdtdtdtdtdZbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabtdWdtdteadtdtdZbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabtebecececececedbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabtbtbtbtbtbtbtbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,3) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabteeefegeheiejekelemeneoepeqereseteuevewexeybtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtezeAeBeCeDeEeFeGeHeIeJeKeLeMeNeOePeQeReSeTbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabteUeVeWeXeYeZfafbfcfdfefffgfhfifjfkflfmfnfobtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtfpfqfrfsftfufvfwfxfyfzfAfBfCfDfEfFfGfHfIfJbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtfKfLfMfNfOfPfQfRfSfTfUfVfWfXfYfZgagbgcgdgebtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtgfggghgigjgkglgmgngogpgqgrgsgtgugvgwgxgygzbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtgAgBgCgDgEgFgGgHgIgJgKgLgMgNgOgPgQgRgSgTgUbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtgVgWgXgYgZhahbhchdhehfhghhhihjhkhlhmhnhohpbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabthqhrhshthuhvhwhxhyhzhAhBhChDhEhFhGhHhIhJhKbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabthLhMhNhOhPhQhRhShThUhVhWhXhYhZiaibicidieifbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtigihiiijikiliminioipiqirisitiuiviwixiyiziAbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtiBiCiDiEiFiGiHiIiJiKiLiMiNiOiPiQiRiSiTiUiVbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtiWiXiYiZjajbjcjdjejfjgjhjijjjkjljmjnjojpjqbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtjrjsjtjujvjwjxjyjzjAjBjCjDjEjFjGjHjIjJjKjLbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtjMjNjOjPjQjRjSjTjUjVjWjXjYjZkakbkckdkekfkgbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtkhkikjkkklkmknkokpkqkrksktkukvkwkxkykzkAkBbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtkCkDkEkFkGkHkIkJkKkLkMkNkOkPkQkRkSkTkUkVkWbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtkXkYkZlalblcldlelflglhliljlklllmlnlolplqlrbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtlsltlulvlwlxlylzlAlBlClDlElFlGlHlIlJlKlLlMbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtlNlOlPlQlRlSlTlUlVlWlXlYlZmambmcmdmemfmgmhbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+btbtbtbtbtbtbtbtbtbtbtbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+btbtbtbtbtbtbtbtbtbtbtbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+mimjmjmjmjmjmjmjmjmjmkbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+mjmjmjmjmjmjmjmjmjmjmjbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+mjmjmjmjmjmjmjmjmjmjmjbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+mjmjmjmjmjmjmjmjmjmjmjbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+mjmjmjmjmjmlmmmjmjmjmjbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+mjmjmjmjmjmnmjmjmjmjmjbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+mjmjmjmjmjmjmjmjmjmjmjbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+mjmjmjmjmjmjmjmjmjmjmjbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+mjmjmjmjmjmjmjmjmjmjmjbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+momjmjmjmjmjmjmjmjmjmpbtbtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,4) = {"
+aaaaaaaaaaaaaeaedgmqmqdRaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaeaeaeaeaeaeaeaeaeaeaeaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaeaeaeaeaeaeaeaeaeaeaeaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaemrmsmsmsmsmsmsmsmsmtaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaemuajajajajajaqaqaimvaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaemwcscscrcrdjmxmxdhmyaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaemzmAmBmBmBmBmBmBmCmDaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaemzmEmFmFmFmFmFmFmGmDaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaemzmEmFmFmFmFmFmFmGmDaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaemzmEmFmFmFmFmFmFmGmDaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaemzmEmFmFmFmFmFmFmGmDaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaemzmHmFmFmFmFmFmFmGmDaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaemzmImFmFmFmFmFmFmGmDaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaemzmJmKmKmKmKmKmKmLmDaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaaaaaeaemMmNmNmOaHaHmPmNmNmQaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaeaeaeaeaeaeaedeaHaHmRaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHdRaeaeaeaeaeaeaeaeaedeaHaHmRaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHmSbvbvbvbvbvbvbvbvbvmTaHaHmSbvbvbvbvbvbvbvbvbvbvbvbvbwaeaeaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHbjajajajajajajajajajbiaHaHbjajajajajajajajajajajajajbIaeaeaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHblayayayayayayayayaybkaHaHblayayayayayayayayayayayaymUaeaeaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHcmaeaeaaaaaaaaaa
+aaaaaaaaaaaaaeaedgaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHcmaeaeaaaaaaaaaa
+aaaaaaaaaaaaaeaemVmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmXaeaeaaaaaaaaaa
+aaaaaaaaaaaaaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaaaaaaaaaa
+aaaaaaaaaaaaaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

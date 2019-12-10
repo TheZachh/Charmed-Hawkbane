@@ -1,0 +1,760 @@
+"aa" = (/turf,/area)
+"ab" = (/turf/barrier,/area)
+"ac" = (/turf/tile1,/turf/barrier,/area)
+"ad" = (/turf/tile21,/area)
+"ae" = (/turf/tile21,/turf/tile139,/area)
+"af" = (/turf/tile21,/turf/tile138,/area)
+"ag" = (/turf/tile22,/area)
+"ah" = (/turf/tile22,/turf/tile140,/area)
+"ai" = (/turf/NewWorld/Floor/Stone_Floor,/area)
+"aj" = (/turf/tile150,/turf/NewWorld/Teleport/Hell/EntranceToHell2,/area)
+"ak" = (/turf/tile1,/area)
+"al" = (/turf/NewWorld/Floor/Stone_Floor,/turf/Area/Hell,/area)
+"am" = (/turf/NewWorld/Floor/Stone_Floor,/turf/tile155,/area)
+"an" = (/turf/NewWorld/Floor/Stone_Floor,/turf/tile153,/area)
+"ao" = (/turf/NewWorld/Floor/Stone_Floor,/turf/tile152,/area)
+"ap" = (/turf/NewWorld/Floor/Stone_Floor,/turf/tile154,/area)
+"aq" = (/turf/tile81,/area)
+"ar" = (/turf/NewWorld/Floor/Stone_Floor,/turf/NewWorld/Teleport/Hell/GraveToGraveyard,/area)
+"as" = (/turf/tile159,/area)
+"at" = (/turf/tile141,/turf/opacity,/area)
+"au" = (/turf/tile142,/turf/opacity,/area)
+"av" = (/turf/tile158b,/area)
+"aw" = (/turf/tile158,/area)
+"ax" = (/turf/tile160,/area)
+"ay" = (/turf/tile149,/area)
+"az" = (/turf/tile144,/area)
+"aA" = (/turf/tile143,/area)
+"aB" = (/mob/monster/Demon3,/turf/tile149,/area)
+"aC" = (/turf/tile145,/area)
+"aD" = (/turf/tile146,/area)
+"aE" = (/turf/tile151,/turf/NewWorld/Teleport/Hell/Hell2ToEntrance,/area)
+"aF" = (/turf/tile149,/turf/npc/spawn1,/area)
+"aG" = (/mob/NewWorld/Darklighter/Darklighter,/turf/tile149,/area)
+"aH" = (/turf/tile149,/turf/NewWorld/Teleport/Hell/Hell2ToHell4,/area)
+"aI" = (/turf/tile149,/turf/NewWorld/Teleport/Hell/Hell2ToHell3,/area)
+"aJ" = (/turf/tile149,/turf/NewWorld/Teleport/Hell/Hell3ToHell2,/area)
+"aK" = (/turf/tile149,/turf/Area/Hell2,/area)
+"aL" = (/turf/tile149,/turf/tile35,/area)
+"aM" = (/turf/tile149,/turf/tile24,/area)
+"aN" = (/turf/tile149,/turf/tile163,/area)
+"aO" = (/turf/tile149,/turf/tile23,/area)
+"aP" = (/turf/tile149,/turf/tile20,/area)
+"aQ" = (/turf/tile149,/turf/tile169,/area)
+"aR" = (/turf/tile149,/turf/NewWorld/Decor/SourceStatue/s3,/area)
+"aS" = (/turf/tile149,/turf/NewWorld/Decor/SourceStatue/s4,/area)
+"aT" = (/turf/tile149,/turf/tile162,/area)
+"aU" = (/turf/tile149,/turf/NewWorld/Decor/SourceStatue/s1,/area)
+"aV" = (/turf/tile149,/turf/NewWorld/Decor/SourceStatue/s2,/area)
+"aW" = (/obj/Pyrokinesis,/turf/tile81,/area)
+"aX" = (/turf/tile149,/turf/npc/spawn2,/area)
+"aY" = (/turf/tile61,/area)
+"aZ" = (/turf/tile61,/turf/teleport/Hell7ToDemonMarket,/area)
+"ba" = (/turf/tile149,/turf/tile157,/area)
+"bb" = (/mob/NewWorld/Demon/Carius,/turf/tile149,/area)
+"bc" = (/turf/tile149,/turf/tile88,/area)
+"bd" = (/turf/tile149,/turf/tile89,/area)
+"be" = (/turf/tile149,/turf/tile156,/area)
+"bf" = (/mob/NewWorld/Demon/Demon,/turf/tile149,/area)
+"bg" = (/mob/monster/Demon,/turf/tile149,/area)
+"bh" = (/turf/tile149,/turf/NewWorld/Teleport/Hell/Hell4ToHell5,/area)
+"bi" = (/turf/tile149,/turf/NewWorld/Teleport/Hell/Hell4ToHell2,/area)
+"bj" = (/obj/housesign/Dark_Force,/turf/tile144,/area)
+"bk" = (/turf/tile149,/turf/NewWorld/Teleport/Hell/Hell4ToLair1,/area)
+"bl" = (/turf/tile142,/area)
+"bm" = (/turf/tile125b,/area)
+"bn" = (/turf/tile63,/turf/NewWorld/Teleport/Hell/Hell5ToDemonYard,/area)
+"bo" = (/turf/tile63,/area)
+"bp" = (/turf/tile149,/turf/NewWorld/Teleport/Hell/Hell5ToHell4,/area)
+"bq" = (/mob/NewWorld/Demon/Rajin,/turf/tile149,/area)
+"br" = (/mob/monster/Demon2,/turf/tile149,/area)
+"bs" = (/mob/NewWorld/Darklighter/Caine,/turf/tile149,/area)
+"bt" = (/mob/NewWorld/Demon/Furio,/turf/tile149,/area)
+"bu" = (/mob/monster/Darklighter2,/turf/tile149,/area)
+"bv" = (/turf/tile61,/turf/NewWorld/Teleport/Hell/Hell6ToDemonMarket,/area)
+"bw" = (/turf/Login{tag = ""; icon_state = "0,19"},/area)
+"bx" = (/turf/Login{tag = ""; icon_state = "1,19"},/area)
+"by" = (/turf/Login{tag = ""; icon_state = "2,19"},/area)
+"bz" = (/turf/Login{tag = ""; icon_state = "3,19"},/area)
+"bA" = (/turf/Login{tag = ""; icon_state = "4,19"},/area)
+"bB" = (/turf/Login{tag = ""; icon_state = "5,19"},/area)
+"bC" = (/turf/Login{tag = ""; icon_state = "6,19"},/area)
+"bD" = (/turf/Login{tag = ""; icon_state = "7,19"},/area)
+"bE" = (/turf/Login{tag = ""; icon_state = "8,19"},/area)
+"bF" = (/turf/Login{tag = ""; icon_state = "9,19"},/area)
+"bG" = (/turf/Login{tag = ""; icon_state = "10,19"},/area)
+"bH" = (/turf/Login{tag = ""; icon_state = "11,19"},/area)
+"bI" = (/turf/Login{tag = ""; icon_state = "12,19"},/area)
+"bJ" = (/turf/Login{tag = ""; icon_state = "13,19"},/area)
+"bK" = (/turf/Login{tag = ""; icon_state = "14,19"},/area)
+"bL" = (/turf/Login{tag = ""; icon_state = "15,19"},/area)
+"bM" = (/turf/Login{tag = ""; icon_state = "16,19"},/area)
+"bN" = (/turf/Login{tag = ""; icon_state = "17,19"},/area)
+"bO" = (/turf/Login{tag = ""; icon_state = "18,19"},/area)
+"bP" = (/turf/Login{tag = ""; icon_state = "19,19"},/area)
+"bQ" = (/turf/Login{tag = ""; icon_state = "20,19"},/area)
+"bR" = (/turf/Login{tag = ""; icon_state = "0,18"},/turf/Login/Buttons/New,/area)
+"bS" = (/turf/Login{tag = ""; icon_state = "1,18"},/turf/Login/Buttons/New,/area)
+"bT" = (/turf/Login{tag = ""; icon_state = "2,18"},/turf/Login/Buttons/New,/area)
+"bU" = (/turf/Login{tag = ""; icon_state = "3,18"},/turf/Login/Buttons/New,/area)
+"bV" = (/turf/Login{tag = ""; icon_state = "4,18"},/turf/Login/Buttons/New,/area)
+"bW" = (/turf/Login{tag = ""; icon_state = "5,18"},/area)
+"bX" = (/turf/Login{tag = ""; icon_state = "6,18"},/area)
+"bY" = (/turf/Login{tag = ""; icon_state = "7,18"},/area)
+"bZ" = (/turf/Login{tag = ""; icon_state = "8,18"},/area)
+"ca" = (/turf/Login{tag = ""; icon_state = "9,18"},/area)
+"cb" = (/turf/Login{tag = ""; icon_state = "10,18"},/area)
+"cc" = (/turf/Login{tag = ""; icon_state = "11,18"},/area)
+"cd" = (/turf/Login{tag = ""; icon_state = "12,18"},/area)
+"ce" = (/turf/Login{tag = ""; icon_state = "13,18"},/area)
+"cf" = (/turf/Login{tag = ""; icon_state = "14,18"},/turf/Login/Buttons/Delete,/area)
+"cg" = (/turf/Login{tag = ""; icon_state = "15,18"},/turf/Login/Buttons/Delete,/area)
+"ch" = (/turf/Login{tag = ""; icon_state = "16,18"},/turf/Login/Buttons/Delete,/area)
+"ci" = (/turf/Login{tag = ""; icon_state = "17,18"},/turf/Login/Buttons/Delete,/area)
+"cj" = (/turf/Login{tag = ""; icon_state = "18,18"},/turf/Login/Buttons/Delete,/area)
+"ck" = (/turf/Login{tag = ""; icon_state = "19,18"},/turf/Login/Buttons/Delete,/area)
+"cl" = (/turf/Login{tag = ""; icon_state = "20,18"},/area)
+"cm" = (/turf/Login{tag = ""; icon_state = "0,17"},/turf/Login/Buttons/New,/area)
+"cn" = (/turf/Login{tag = ""; icon_state = "1,17"},/turf/Login/Buttons/New,/area)
+"co" = (/turf/Login{tag = ""; icon_state = "2,17"},/turf/Login/Buttons/New,/area)
+"cp" = (/turf/Login{tag = ""; icon_state = "3,17"},/turf/Login/Buttons/New,/area)
+"cq" = (/turf/Login{tag = ""; icon_state = "4,17"},/turf/Login/Buttons/New,/area)
+"cr" = (/turf/Login{tag = ""; icon_state = "5,17"},/area)
+"cs" = (/turf/Login{tag = ""; icon_state = "6,17"},/area)
+"ct" = (/turf/Login{tag = ""; icon_state = "7,17"},/area)
+"cu" = (/turf/Login{tag = ""; icon_state = "8,17"},/area)
+"cv" = (/turf/Login{tag = ""; icon_state = "9,17"},/area)
+"cw" = (/turf/Login{tag = ""; icon_state = "10,17"},/area)
+"cx" = (/turf/Login{tag = ""; icon_state = "11,17"},/area)
+"cy" = (/turf/Login{tag = ""; icon_state = "12,17"},/area)
+"cz" = (/turf/Login{tag = ""; icon_state = "13,17"},/area)
+"cA" = (/turf/Login{tag = ""; icon_state = "14,17"},/turf/Login/Buttons/Delete,/area)
+"cB" = (/turf/Login{tag = ""; icon_state = "15,17"},/turf/Login/Buttons/Delete,/area)
+"cC" = (/turf/Login{tag = ""; icon_state = "16,17"},/turf/Login/Buttons/Delete,/area)
+"cD" = (/turf/Login{tag = ""; icon_state = "17,17"},/turf/Login/Buttons/Delete,/area)
+"cE" = (/turf/Login{tag = ""; icon_state = "18,17"},/turf/Login/Buttons/Delete,/area)
+"cF" = (/turf/Login{tag = ""; icon_state = "19,17"},/turf/Login/Buttons/Delete,/area)
+"cG" = (/turf/Login{tag = ""; icon_state = "20,17"},/area)
+"cH" = (/turf/Login{tag = ""; icon_state = "0,16"},/turf/Login/Buttons/New,/area)
+"cI" = (/turf/Login{tag = ""; icon_state = "1,16"},/turf/Login/Buttons/New,/area)
+"cJ" = (/turf/Login{tag = ""; icon_state = "2,16"},/turf/Login/Buttons/New,/area)
+"cK" = (/turf/Login{tag = ""; icon_state = "3,16"},/turf/Login/Buttons/New,/area)
+"cL" = (/turf/Login{tag = ""; icon_state = "4,16"},/turf/Login/Buttons/New,/area)
+"cM" = (/turf/Login{tag = ""; icon_state = "5,16"},/area)
+"cN" = (/turf/Login{tag = ""; icon_state = "6,16"},/area)
+"cO" = (/turf/Login{tag = ""; icon_state = "7,16"},/area)
+"cP" = (/turf/Login{tag = ""; icon_state = "8,16"},/area)
+"cQ" = (/turf/Login{tag = ""; icon_state = "9,16"},/area)
+"cR" = (/turf/Login{tag = ""; icon_state = "10,16"},/area)
+"cS" = (/turf/Login{tag = ""; icon_state = "11,16"},/area)
+"cT" = (/turf/Login{tag = ""; icon_state = "12,16"},/area)
+"cU" = (/turf/Login{tag = ""; icon_state = "13,16"},/area)
+"cV" = (/turf/Login{tag = ""; icon_state = "14,16"},/turf/Login/Buttons/Delete,/area)
+"cW" = (/turf/Login{tag = ""; icon_state = "15,16"},/turf/Login/Buttons/Delete,/area)
+"cX" = (/turf/Login{tag = ""; icon_state = "16,16"},/turf/Login/Buttons/Delete,/area)
+"cY" = (/turf/Login{tag = ""; icon_state = "17,16"},/turf/Login/Buttons/Delete,/area)
+"cZ" = (/turf/Login{tag = ""; icon_state = "18,16"},/turf/Login/Buttons/Delete,/area)
+"da" = (/turf/Login{tag = ""; icon_state = "19,16"},/turf/Login/Buttons/Delete,/area)
+"db" = (/turf/Login{tag = ""; icon_state = "20,16"},/area)
+"dc" = (/turf/Login{tag = ""; icon_state = "0,15"},/area)
+"dd" = (/turf/Login{tag = ""; icon_state = "1,15"},/area)
+"de" = (/turf/Login{tag = ""; icon_state = "2,15"},/area)
+"df" = (/turf/Login{tag = ""; icon_state = "3,15"},/area)
+"dg" = (/turf/Login{tag = ""; icon_state = "4,15"},/area)
+"dh" = (/turf/Login{tag = ""; icon_state = "5,15"},/area)
+"di" = (/turf/Login{tag = ""; icon_state = "6,15"},/area)
+"dj" = (/turf/Login{tag = ""; icon_state = "7,15"},/area)
+"dk" = (/turf/Login{tag = ""; icon_state = "8,15"},/area)
+"dl" = (/turf/Login{tag = ""; icon_state = "9,15"},/area)
+"dm" = (/turf/Login{tag = ""; icon_state = "10,15"},/area)
+"dn" = (/turf/Login{tag = ""; icon_state = "11,15"},/area)
+"do" = (/turf/Login{tag = ""; icon_state = "12,15"},/area)
+"dp" = (/turf/Login{tag = ""; icon_state = "13,15"},/area)
+"dq" = (/turf/Login{tag = ""; icon_state = "14,15"},/area)
+"dr" = (/turf/Login{tag = ""; icon_state = "15,15"},/area)
+"ds" = (/turf/Login{tag = ""; icon_state = "16,15"},/area)
+"dt" = (/turf/Login{tag = ""; icon_state = "17,15"},/area)
+"du" = (/turf/Login{tag = ""; icon_state = "18,15"},/area)
+"dv" = (/turf/Login{tag = ""; icon_state = "19,15"},/area)
+"dw" = (/turf/Login{tag = ""; icon_state = "20,15"},/area)
+"dx" = (/turf/Login{tag = ""; icon_state = "0,14"},/turf/Login/Buttons/Load,/area)
+"dy" = (/turf/Login{tag = ""; icon_state = "1,14"},/turf/Login/Buttons/Load,/area)
+"dz" = (/turf/Login{tag = ""; icon_state = "2,14"},/turf/Login/Buttons/Load,/area)
+"dA" = (/turf/Login{tag = ""; icon_state = "3,14"},/turf/Login/Buttons/Load,/area)
+"dB" = (/turf/Login{tag = ""; icon_state = "4,14"},/turf/Login/Buttons/Load,/area)
+"dC" = (/turf/Login{tag = ""; icon_state = "5,14"},/area)
+"dD" = (/turf/Login{tag = ""; icon_state = "6,14"},/area)
+"dE" = (/turf/Login{tag = ""; icon_state = "7,14"},/area)
+"dF" = (/turf/Login{tag = ""; icon_state = "8,14"},/area)
+"dG" = (/turf/Login{tag = ""; icon_state = "9,14"},/area)
+"dH" = (/turf/Login{tag = ""; icon_state = "10,14"},/area)
+"dI" = (/turf/Login{tag = ""; icon_state = "11,14"},/area)
+"dJ" = (/turf/Login{tag = ""; icon_state = "12,14"},/area)
+"dK" = (/turf/Login{tag = ""; icon_state = "13,14"},/area)
+"dL" = (/turf/Login{tag = ""; icon_state = "14,14"},/area)
+"dM" = (/turf/Login{tag = ""; icon_state = "15,14"},/turf/Login/Buttons/Quit,/area)
+"dN" = (/turf/Login{tag = ""; icon_state = "16,14"},/turf/Login/Buttons/Quit,/area)
+"dO" = (/turf/Login{tag = ""; icon_state = "17,14"},/turf/Login/Buttons/Quit,/area)
+"dP" = (/turf/Login{tag = ""; icon_state = "18,14"},/turf/Login/Buttons/Quit,/area)
+"dQ" = (/turf/Login{tag = ""; icon_state = "19,14"},/area)
+"dR" = (/turf/Login{tag = ""; icon_state = "20,14"},/area)
+"dS" = (/turf/Login{tag = ""; icon_state = "0,13"},/turf/Login/Buttons/Load,/area)
+"dT" = (/turf/Login{tag = ""; icon_state = "1,13"},/turf/Login/Buttons/Load,/area)
+"dU" = (/turf/Login{tag = ""; icon_state = "2,13"},/turf/Login/Buttons/Load,/area)
+"dV" = (/turf/Login{tag = ""; icon_state = "3,13"},/turf/Login/Buttons/Load,/area)
+"dW" = (/turf/Login{tag = ""; icon_state = "4,13"},/turf/Login/Buttons/Load,/area)
+"dX" = (/turf/Login{tag = ""; icon_state = "5,13"},/area)
+"dY" = (/turf/Login{tag = ""; icon_state = "6,13"},/area)
+"dZ" = (/turf/Login{tag = ""; icon_state = "7,13"},/area)
+"ea" = (/turf/Login{tag = ""; icon_state = "8,13"},/area)
+"eb" = (/turf/Login{tag = ""; icon_state = "9,13"},/area)
+"ec" = (/turf/Login{tag = ""; icon_state = "10,13"},/area)
+"ed" = (/turf/Login{tag = ""; icon_state = "11,13"},/area)
+"ee" = (/turf/Login{tag = ""; icon_state = "12,13"},/area)
+"ef" = (/turf/Login{tag = ""; icon_state = "13,13"},/area)
+"eg" = (/turf/Login{tag = ""; icon_state = "14,13"},/area)
+"eh" = (/turf/Login{tag = ""; icon_state = "15,13"},/turf/Login/Buttons/Quit,/area)
+"ei" = (/turf/Login{tag = ""; icon_state = "16,13"},/turf/Login/Buttons/Quit,/area)
+"ej" = (/turf/Login{tag = ""; icon_state = "17,13"},/turf/Login/Buttons/Quit,/area)
+"ek" = (/turf/Login{tag = ""; icon_state = "18,13"},/turf/Login/Buttons/Quit,/area)
+"el" = (/turf/Login{tag = ""; icon_state = "19,13"},/area)
+"em" = (/turf/Login{tag = ""; icon_state = "20,13"},/area)
+"en" = (/turf/Login{tag = ""; icon_state = "0,12"},/area)
+"eo" = (/turf/Login{tag = ""; icon_state = "1,12"},/area)
+"ep" = (/turf/Login{tag = ""; icon_state = "2,12"},/area)
+"eq" = (/turf/Login{tag = ""; icon_state = "3,12"},/area)
+"er" = (/turf/Login{tag = ""; icon_state = "4,12"},/area)
+"es" = (/turf/Login{tag = ""; icon_state = "5,12"},/area)
+"et" = (/turf/Login{tag = ""; icon_state = "6,12"},/area)
+"eu" = (/turf/Login{tag = ""; icon_state = "7,12"},/area)
+"ev" = (/turf/Login{tag = ""; icon_state = "8,12"},/area)
+"ew" = (/turf/Login{tag = ""; icon_state = "9,12"},/area)
+"ex" = (/turf/Login{tag = ""; icon_state = "10,12"},/area)
+"ey" = (/turf/Login{tag = ""; icon_state = "11,12"},/area)
+"ez" = (/turf/Login{tag = ""; icon_state = "12,12"},/area)
+"eA" = (/turf/Login{tag = ""; icon_state = "13,12"},/area)
+"eB" = (/turf/Login{tag = ""; icon_state = "14,12"},/area)
+"eC" = (/turf/Login{tag = ""; icon_state = "15,12"},/area)
+"eD" = (/turf/Login{tag = ""; icon_state = "16,12"},/area)
+"eE" = (/turf/Login{tag = ""; icon_state = "17,12"},/area)
+"eF" = (/turf/Login{tag = ""; icon_state = "18,12"},/area)
+"eG" = (/turf/Login{tag = ""; icon_state = "19,12"},/area)
+"eH" = (/turf/Login{tag = ""; icon_state = "20,12"},/area)
+"eI" = (/turf/Login{tag = ""; icon_state = "0,11"},/area)
+"eJ" = (/turf/Login{tag = ""; icon_state = "1,11"},/area)
+"eK" = (/turf/Login{tag = ""; icon_state = "2,11"},/area)
+"eL" = (/turf/Login{tag = ""; icon_state = "3,11"},/area)
+"eM" = (/turf/Login{tag = ""; icon_state = "4,11"},/area)
+"eN" = (/turf/Login{tag = ""; icon_state = "5,11"},/area)
+"eO" = (/turf/Login{tag = ""; icon_state = "6,11"},/area)
+"eP" = (/turf/Login{tag = ""; icon_state = "7,11"},/area)
+"eQ" = (/turf/Login{tag = ""; icon_state = "8,11"},/area)
+"eR" = (/turf/Login{tag = ""; icon_state = "9,11"},/area)
+"eS" = (/turf/Login{tag = ""; icon_state = "10,11"},/area)
+"eT" = (/turf/Login{tag = ""; icon_state = "11,11"},/area)
+"eU" = (/turf/Login{tag = ""; icon_state = "12,11"},/area)
+"eV" = (/turf/Login{tag = ""; icon_state = "13,11"},/area)
+"eW" = (/turf/Login{tag = ""; icon_state = "14,11"},/area)
+"eX" = (/turf/Login{tag = ""; icon_state = "15,11"},/area)
+"eY" = (/turf/Login{tag = ""; icon_state = "16,11"},/area)
+"eZ" = (/turf/Login{tag = ""; icon_state = "17,11"},/area)
+"fa" = (/turf/Login{tag = ""; icon_state = "18,11"},/area)
+"fb" = (/turf/Login{tag = ""; icon_state = "19,11"},/area)
+"fc" = (/turf/Login{tag = ""; icon_state = "20,11"},/area)
+"fd" = (/turf/Login{tag = ""; icon_state = "0,10"},/area)
+"fe" = (/turf/Login{tag = ""; icon_state = "1,10"},/area)
+"ff" = (/turf/Login{tag = ""; icon_state = "2,10"},/area)
+"fg" = (/turf/Login{tag = ""; icon_state = "3,10"},/area)
+"fh" = (/turf/Login{tag = ""; icon_state = "4,10"},/area)
+"fi" = (/turf/Login{tag = ""; icon_state = "5,10"},/area)
+"fj" = (/turf/Login{tag = ""; icon_state = "6,10"},/area)
+"fk" = (/turf/Login{tag = ""; icon_state = "7,10"},/area)
+"fl" = (/turf/Login{tag = ""; icon_state = "8,10"},/area)
+"fm" = (/turf/Login{tag = ""; icon_state = "9,10"},/area)
+"fn" = (/turf/Login{tag = ""; icon_state = "10,10"},/area)
+"fo" = (/turf/Login{tag = ""; icon_state = "11,10"},/area)
+"fp" = (/turf/Login{tag = ""; icon_state = "12,10"},/area)
+"fq" = (/turf/Login{tag = ""; icon_state = "13,10"},/area)
+"fr" = (/turf/Login{tag = ""; icon_state = "14,10"},/area)
+"fs" = (/turf/Login{tag = ""; icon_state = "15,10"},/area)
+"ft" = (/turf/Login{tag = ""; icon_state = "16,10"},/area)
+"fu" = (/turf/Login{tag = ""; icon_state = "17,10"},/area)
+"fv" = (/turf/Login{tag = ""; icon_state = "18,10"},/area)
+"fw" = (/turf/Login{tag = ""; icon_state = "19,10"},/area)
+"fx" = (/turf/Login{tag = ""; icon_state = "20,10"},/area)
+"fy" = (/turf/Login{tag = ""; icon_state = "0,9"},/area)
+"fz" = (/turf/Login{tag = ""; icon_state = "1,9"},/area)
+"fA" = (/turf/Login{tag = ""; icon_state = "2,9"},/area)
+"fB" = (/turf/Login{tag = ""; icon_state = "3,9"},/area)
+"fC" = (/turf/Login{tag = ""; icon_state = "4,9"},/area)
+"fD" = (/turf/Login{tag = ""; icon_state = "5,9"},/area)
+"fE" = (/turf/Login{tag = ""; icon_state = "6,9"},/area)
+"fF" = (/turf/Login{tag = ""; icon_state = "7,9"},/area)
+"fG" = (/turf/Login{tag = ""; icon_state = "8,9"},/area)
+"fH" = (/turf/Login{tag = ""; icon_state = "9,9"},/turf/Area/Login2,/area)
+"fI" = (/turf/Login{tag = ""; icon_state = "10,9"},/area)
+"fJ" = (/turf/Login{tag = ""; icon_state = "11,9"},/area)
+"fK" = (/turf/Login{tag = ""; icon_state = "12,9"},/area)
+"fL" = (/turf/Login{tag = ""; icon_state = "13,9"},/area)
+"fM" = (/turf/Login{tag = ""; icon_state = "14,9"},/area)
+"fN" = (/turf/Login{tag = ""; icon_state = "15,9"},/area)
+"fO" = (/turf/Login{tag = ""; icon_state = "16,9"},/area)
+"fP" = (/turf/Login{tag = ""; icon_state = "17,9"},/area)
+"fQ" = (/turf/Login{tag = ""; icon_state = "18,9"},/area)
+"fR" = (/turf/Login{tag = ""; icon_state = "19,9"},/area)
+"fS" = (/turf/Login{tag = ""; icon_state = "20,9"},/area)
+"fT" = (/turf/Login{tag = ""; icon_state = "0,8"},/area)
+"fU" = (/turf/Login{tag = ""; icon_state = "1,8"},/area)
+"fV" = (/turf/Login{tag = ""; icon_state = "2,8"},/area)
+"fW" = (/turf/Login{tag = ""; icon_state = "3,8"},/area)
+"fX" = (/turf/Login{tag = ""; icon_state = "4,8"},/area)
+"fY" = (/turf/Login{tag = ""; icon_state = "5,8"},/area)
+"fZ" = (/turf/Login{tag = ""; icon_state = "6,8"},/area)
+"ga" = (/turf/Login{tag = ""; icon_state = "7,8"},/area)
+"gb" = (/turf/Login{tag = ""; icon_state = "8,8"},/area)
+"gc" = (/turf/Login{tag = ""; icon_state = "9,8"},/area)
+"gd" = (/turf/Login{tag = ""; icon_state = "10,8"},/area)
+"ge" = (/turf/Login{tag = ""; icon_state = "11,8"},/area)
+"gf" = (/turf/Login{tag = ""; icon_state = "12,8"},/area)
+"gg" = (/turf/Login{tag = ""; icon_state = "13,8"},/area)
+"gh" = (/turf/Login{tag = ""; icon_state = "14,8"},/area)
+"gi" = (/turf/Login{tag = ""; icon_state = "15,8"},/area)
+"gj" = (/turf/Login{tag = ""; icon_state = "16,8"},/area)
+"gk" = (/turf/Login{tag = ""; icon_state = "17,8"},/area)
+"gl" = (/turf/Login{tag = ""; icon_state = "18,8"},/area)
+"gm" = (/turf/Login{tag = ""; icon_state = "19,8"},/area)
+"gn" = (/turf/Login{tag = ""; icon_state = "20,8"},/area)
+"go" = (/turf/Login{tag = ""; icon_state = "0,7"},/area)
+"gp" = (/turf/Login{tag = ""; icon_state = "1,7"},/area)
+"gq" = (/turf/Login{tag = ""; icon_state = "2,7"},/area)
+"gr" = (/turf/Login{tag = ""; icon_state = "3,7"},/area)
+"gs" = (/turf/Login{tag = ""; icon_state = "4,7"},/area)
+"gt" = (/turf/Login{tag = ""; icon_state = "5,7"},/area)
+"gu" = (/turf/Login{tag = ""; icon_state = "6,7"},/area)
+"gv" = (/turf/Login{tag = ""; icon_state = "7,7"},/area)
+"gw" = (/turf/Login{tag = ""; icon_state = "8,7"},/area)
+"gx" = (/turf/Login{tag = ""; icon_state = "9,7"},/area)
+"gy" = (/turf/Login{tag = ""; icon_state = "10,7"},/area)
+"gz" = (/turf/Login{tag = ""; icon_state = "11,7"},/area)
+"gA" = (/turf/Login{tag = ""; icon_state = "12,7"},/area)
+"gB" = (/turf/Login{tag = ""; icon_state = "13,7"},/area)
+"gC" = (/turf/Login{tag = ""; icon_state = "14,7"},/area)
+"gD" = (/turf/Login{tag = ""; icon_state = "15,7"},/area)
+"gE" = (/turf/Login{tag = ""; icon_state = "16,7"},/area)
+"gF" = (/turf/Login{tag = ""; icon_state = "17,7"},/area)
+"gG" = (/turf/Login{tag = ""; icon_state = "18,7"},/area)
+"gH" = (/turf/Login{tag = ""; icon_state = "19,7"},/area)
+"gI" = (/turf/Login{tag = ""; icon_state = "20,7"},/area)
+"gJ" = (/turf/Login{tag = ""; icon_state = "0,6"},/area)
+"gK" = (/turf/Login{tag = ""; icon_state = "1,6"},/area)
+"gL" = (/turf/Login{tag = ""; icon_state = "2,6"},/area)
+"gM" = (/turf/Login{tag = ""; icon_state = "3,6"},/area)
+"gN" = (/turf/Login{tag = ""; icon_state = "4,6"},/area)
+"gO" = (/turf/Login{tag = ""; icon_state = "5,6"},/area)
+"gP" = (/turf/Login{tag = ""; icon_state = "6,6"},/area)
+"gQ" = (/turf/Login{tag = ""; icon_state = "7,6"},/area)
+"gR" = (/turf/Login{tag = ""; icon_state = "8,6"},/area)
+"gS" = (/turf/Login{tag = ""; icon_state = "9,6"},/area)
+"gT" = (/turf/Login{tag = ""; icon_state = "10,6"},/area)
+"gU" = (/turf/Login{tag = ""; icon_state = "11,6"},/area)
+"gV" = (/turf/Login{tag = ""; icon_state = "12,6"},/area)
+"gW" = (/turf/Login{tag = ""; icon_state = "13,6"},/area)
+"gX" = (/turf/Login{tag = ""; icon_state = "14,6"},/area)
+"gY" = (/turf/Login{tag = ""; icon_state = "15,6"},/area)
+"gZ" = (/turf/Login{tag = ""; icon_state = "16,6"},/area)
+"ha" = (/turf/Login{tag = ""; icon_state = "17,6"},/area)
+"hb" = (/turf/Login{tag = ""; icon_state = "18,6"},/area)
+"hc" = (/turf/Login{tag = ""; icon_state = "19,6"},/area)
+"hd" = (/turf/Login{tag = ""; icon_state = "20,6"},/area)
+"he" = (/turf/Login{tag = ""; icon_state = "0,5"},/area)
+"hf" = (/turf/Login{tag = ""; icon_state = "1,5"},/area)
+"hg" = (/turf/Login{tag = ""; icon_state = "2,5"},/area)
+"hh" = (/turf/Login{tag = ""; icon_state = "3,5"},/area)
+"hi" = (/turf/Login{tag = ""; icon_state = "4,5"},/area)
+"hj" = (/turf/Login{tag = ""; icon_state = "5,5"},/area)
+"hk" = (/turf/Login{tag = ""; icon_state = "6,5"},/area)
+"hl" = (/turf/Login{tag = ""; icon_state = "7,5"},/area)
+"hm" = (/turf/Login{tag = ""; icon_state = "8,5"},/area)
+"hn" = (/turf/Login{tag = ""; icon_state = "9,5"},/area)
+"ho" = (/turf/Login{tag = ""; icon_state = "10,5"},/area)
+"hp" = (/turf/Login{tag = ""; icon_state = "11,5"},/area)
+"hq" = (/turf/Login{tag = ""; icon_state = "12,5"},/area)
+"hr" = (/turf/Login{tag = ""; icon_state = "13,5"},/area)
+"hs" = (/turf/Login{tag = ""; icon_state = "14,5"},/area)
+"ht" = (/turf/Login{tag = ""; icon_state = "15,5"},/area)
+"hu" = (/turf/Login{tag = ""; icon_state = "16,5"},/area)
+"hv" = (/turf/Login{tag = ""; icon_state = "17,5"},/area)
+"hw" = (/turf/Login{tag = ""; icon_state = "18,5"},/area)
+"hx" = (/turf/Login{tag = ""; icon_state = "19,5"},/area)
+"hy" = (/turf/Login{tag = ""; icon_state = "20,5"},/area)
+"hz" = (/turf/Login{tag = ""; icon_state = "0,4"},/area)
+"hA" = (/turf/Login{tag = ""; icon_state = "1,4"},/area)
+"hB" = (/turf/Login{tag = ""; icon_state = "2,4"},/area)
+"hC" = (/turf/Login{tag = ""; icon_state = "3,4"},/area)
+"hD" = (/turf/Login{tag = ""; icon_state = "4,4"},/area)
+"hE" = (/turf/Login{tag = ""; icon_state = "5,4"},/area)
+"hF" = (/turf/Login{tag = ""; icon_state = "6,4"},/area)
+"hG" = (/turf/Login{tag = ""; icon_state = "7,4"},/area)
+"hH" = (/turf/Login{tag = ""; icon_state = "8,4"},/area)
+"hI" = (/turf/Login{tag = ""; icon_state = "9,4"},/area)
+"hJ" = (/turf/Login{tag = ""; icon_state = "10,4"},/area)
+"hK" = (/turf/Login{tag = ""; icon_state = "11,4"},/area)
+"hL" = (/turf/Login{tag = ""; icon_state = "12,4"},/area)
+"hM" = (/turf/Login{tag = ""; icon_state = "13,4"},/area)
+"hN" = (/turf/Login{tag = ""; icon_state = "14,4"},/area)
+"hO" = (/turf/Login{tag = ""; icon_state = "15,4"},/area)
+"hP" = (/turf/Login{tag = ""; icon_state = "16,4"},/area)
+"hQ" = (/turf/Login{tag = ""; icon_state = "17,4"},/area)
+"hR" = (/turf/Login{tag = ""; icon_state = "18,4"},/area)
+"hS" = (/turf/Login{tag = ""; icon_state = "19,4"},/area)
+"hT" = (/turf/Login{tag = ""; icon_state = "20,4"},/area)
+"hU" = (/turf/Login{tag = ""; icon_state = "0,3"},/area)
+"hV" = (/turf/Login{tag = ""; icon_state = "1,3"},/area)
+"hW" = (/turf/Login{tag = ""; icon_state = "2,3"},/area)
+"hX" = (/turf/Login{tag = ""; icon_state = "3,3"},/area)
+"hY" = (/turf/Login{tag = ""; icon_state = "4,3"},/area)
+"hZ" = (/turf/Login{tag = ""; icon_state = "5,3"},/area)
+"ia" = (/turf/Login{tag = ""; icon_state = "6,3"},/area)
+"ib" = (/turf/Login{tag = ""; icon_state = "7,3"},/area)
+"ic" = (/turf/Login{tag = ""; icon_state = "8,3"},/area)
+"id" = (/turf/Login{tag = ""; icon_state = "9,3"},/area)
+"ie" = (/turf/Login{tag = ""; icon_state = "10,3"},/area)
+"if" = (/turf/Login{tag = ""; icon_state = "11,3"},/area)
+"ig" = (/turf/Login{tag = ""; icon_state = "12,3"},/area)
+"ih" = (/turf/Login{tag = ""; icon_state = "13,3"},/area)
+"ii" = (/turf/Login{tag = ""; icon_state = "14,3"},/area)
+"ij" = (/turf/Login{tag = ""; icon_state = "15,3"},/area)
+"ik" = (/turf/Login{tag = ""; icon_state = "16,3"},/area)
+"il" = (/turf/Login{tag = ""; icon_state = "17,3"},/area)
+"im" = (/turf/Login{tag = ""; icon_state = "18,3"},/area)
+"in" = (/turf/Login{tag = ""; icon_state = "19,3"},/area)
+"io" = (/turf/Login{tag = ""; icon_state = "20,3"},/area)
+"ip" = (/turf/Login{tag = ""; icon_state = "0,2"},/area)
+"iq" = (/turf/Login{tag = ""; icon_state = "1,2"},/area)
+"ir" = (/turf/Login{tag = ""; icon_state = "2,2"},/area)
+"is" = (/turf/Login{tag = ""; icon_state = "3,2"},/area)
+"it" = (/turf/Login{tag = ""; icon_state = "4,2"},/area)
+"iu" = (/turf/Login{tag = ""; icon_state = "5,2"},/area)
+"iv" = (/turf/Login{tag = ""; icon_state = "6,2"},/area)
+"iw" = (/turf/Login{tag = ""; icon_state = "7,2"},/area)
+"ix" = (/turf/Login{tag = ""; icon_state = "8,2"},/area)
+"iy" = (/turf/Login{tag = ""; icon_state = "9,2"},/area)
+"iz" = (/turf/Login{tag = ""; icon_state = "10,2"},/area)
+"iA" = (/turf/Login{tag = ""; icon_state = "11,2"},/area)
+"iB" = (/turf/Login{tag = ""; icon_state = "12,2"},/area)
+"iC" = (/turf/Login{tag = ""; icon_state = "13,2"},/area)
+"iD" = (/turf/Login{tag = ""; icon_state = "14,2"},/area)
+"iE" = (/turf/Login{tag = ""; icon_state = "15,2"},/area)
+"iF" = (/turf/Login{tag = ""; icon_state = "16,2"},/area)
+"iG" = (/turf/Login{tag = ""; icon_state = "17,2"},/area)
+"iH" = (/turf/Login{tag = ""; icon_state = "18,2"},/area)
+"iI" = (/turf/Login{tag = ""; icon_state = "19,2"},/area)
+"iJ" = (/turf/Login{tag = ""; icon_state = "20,2"},/area)
+"iK" = (/turf/Login{tag = ""; icon_state = "0,1"},/area)
+"iL" = (/turf/Login{tag = ""; icon_state = "1,1"},/area)
+"iM" = (/turf/Login{tag = ""; icon_state = "2,1"},/area)
+"iN" = (/turf/Login{tag = ""; icon_state = "3,1"},/area)
+"iO" = (/turf/Login{tag = ""; icon_state = "4,1"},/area)
+"iP" = (/turf/Login{tag = ""; icon_state = "5,1"},/area)
+"iQ" = (/turf/Login{tag = ""; icon_state = "6,1"},/area)
+"iR" = (/turf/Login{tag = ""; icon_state = "7,1"},/area)
+"iS" = (/turf/Login{tag = ""; icon_state = "8,1"},/area)
+"iT" = (/turf/Login{tag = ""; icon_state = "9,1"},/area)
+"iU" = (/turf/Login{tag = ""; icon_state = "10,1"},/area)
+"iV" = (/turf/Login{tag = ""; icon_state = "11,1"},/area)
+"iW" = (/turf/Login{tag = ""; icon_state = "12,1"},/area)
+"iX" = (/turf/Login{tag = ""; icon_state = "13,1"},/area)
+"iY" = (/turf/Login{tag = ""; icon_state = "14,1"},/area)
+"iZ" = (/turf/Login{tag = ""; icon_state = "15,1"},/area)
+"ja" = (/turf/Login{tag = ""; icon_state = "16,1"},/area)
+"jb" = (/turf/Login{tag = ""; icon_state = "17,1"},/area)
+"jc" = (/turf/Login{tag = ""; icon_state = "18,1"},/area)
+"jd" = (/turf/Login{tag = ""; icon_state = "19,1"},/area)
+"je" = (/turf/Login{tag = ""; icon_state = "20,1"},/area)
+"jf" = (/turf/Login{tag = ""; icon_state = "0,0"},/area)
+"jg" = (/turf/Login{tag = ""; icon_state = "1,0"},/area)
+"jh" = (/turf/Login{tag = ""; icon_state = "2,0"},/area)
+"ji" = (/turf/Login{tag = ""; icon_state = "3,0"},/area)
+"jj" = (/turf/Login{tag = ""; icon_state = "4,0"},/area)
+"jk" = (/turf/Login{tag = ""; icon_state = "5,0"},/area)
+"jl" = (/turf/Login{tag = ""; icon_state = "6,0"},/area)
+"jm" = (/turf/Login{tag = ""; icon_state = "7,0"},/area)
+"jn" = (/turf/Login{tag = ""; icon_state = "8,0"},/area)
+"jo" = (/turf/Login{tag = ""; icon_state = "9,0"},/area)
+"jp" = (/turf/Login{tag = ""; icon_state = "10,0"},/area)
+"jq" = (/turf/Login{tag = ""; icon_state = "11,0"},/area)
+"jr" = (/turf/Login{tag = ""; icon_state = "12,0"},/area)
+"js" = (/turf/Login{tag = ""; icon_state = "13,0"},/area)
+"jt" = (/turf/Login{tag = ""; icon_state = "14,0"},/area)
+"ju" = (/turf/Login{tag = ""; icon_state = "15,0"},/area)
+"jv" = (/turf/Login{tag = ""; icon_state = "16,0"},/area)
+"jw" = (/turf/Login{tag = ""; icon_state = "17,0"},/area)
+"jx" = (/turf/Login{tag = ""; icon_state = "18,0"},/area)
+"jy" = (/turf/Login{tag = ""; icon_state = "19,0"},/area)
+"jz" = (/turf/Login{tag = ""; icon_state = "20,0"},/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaababababababababababababababaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacacacacacacacacacacacacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacadadadadaeafadadadadacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacagahahagagagagahahagacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacaiaiaiaiaiaiaiaiaiaiacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacaiajaiaiaiaiaiaiakaiacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacaiaiaiaiaialaiaiaiaiacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacaiaiaiaiaiaiaiaiaiaiacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacaiaiaiaiaiaiaiaiaiaiacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacaiaiamaiaiaiaianaiaiacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacaiaiaoaiaiaiaiapaiaiacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacaiaiaiaiaiaiaiaiaiaiacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacaiaiaiaiaiaiaiaiaiaiacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacaiaiaiaqaiaiaqaiaiaiacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacaiaiaiaiaiaiaiaiaiaiacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacacacacacararacacacacacabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaababababababababababababababaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,2) = {"
+asasasasasasasasasasasasasasasasasasatauauauauauauauauauauauauauauauau
+asasasasasasasasasasasasasasasavasasatauauauauauauauauauauauauauauauau
+asasasasawasasasasasawasasasasasasasaxayayatauauauauauazayayayayaAauau
+asasasasasasasasasasasasasasasasasasaxayayayayaBayayayayayayayayayatau
+asasasasasasasasasasasasasavasasasasaxayayayayayayayayayayayayayayatau
+asasasasasasavasasasasasasasasawasasaxayayayayayayayaCaDayayayayayatau
+asasasawasasasasasasawasasasasasasasataDayayayayayayatauayayayayayatau
+asasasasasasasasasasasasasasatauauauauauayayayayayayatauaxayayayayatau
+asasasasasasawasasasasasasaxayaAauauauazayayayayayaCauauaDayayayayatau
+asasavasasasasasasatauaxaxayayayayayayayayayayayayatauauauaDayayayatau
+asasasasasasasatauauauayayayayayayayayayayayayayaxatauauauauayayayatau
+asasasasasasasatauauauaDayayayayayayayayayayayayayatauauauazayayayatau
+asasawasasasasatauauauauayayayayayayayayayayayayayaAauazayayayayayatau
+asasasasasasasatauauauauaDayayayayayayaEayayayayayayayayayayayayayatau
+asasasasasasaxayaAauauauauauaDayayayayayayaxaxaxaxayayayayayayayayatau
+asasasasasasaxayayaAauauauauauauauauaDaxaxasasasasaxaxayayayayayayatau
+auauaxaxaxaxayayayayayatauauauauauauauasasasasasasasasaxayayayayayatau
+auauayayayayayayayayayaAauauauauauauauasavasawasasasasasaxayayayayatau
+auauayayayayayayayayayayayatauauauauauasasasasasasasasasaxaxayayayatau
+auauaDayayayayaBayayayayayaAauauauauauasasasasasasavasawasasaxayayatau
+auauauayayayayayayayayayayayayayayayayaxaxasasasasasasasasasaxayayatau
+auauauayayayayayayayaxayayayayayayayayayayaxaxasawasasasasasaxayayatau
+auauauaDayayayayayayayayayayayayayayayayayaFaxasasasasasavasaxayayatau
+auauauauauauaDayayayayayayayayayayayayayayayayaxaxaxaxasasasaxayayatau
+auauauauauauazayayayayayayayayayayayayayayayayayayayayatauauayayayatau
+auauazayayayayayayayayayaCauauaDayayayayayayayayayayaCauauauayayayatau
+auauayayayayayayayayayatauauauauayayayayayayayayayaCauauauauayayayatau
+auauayayayayaCaDayayayaAauauauazayayayayayayaCauauauauauauazayaGayatau
+auazayayayayatauayayayayayayayayayayayayayayaAauauauauauauaxayayayatau
+aHayayayayayatauaDayayayayayayayayayayayayayayaAauauauauazayayayayatau
+aHayayayayayatauauayayayayayayayayayayayayayayayayaAauazayayayayayatau
+auaDayayayaxatauauayayayayayayayaxayayaCauauauaDayayayayayayayayaCauau
+auauaDayayaCauauauaDayayayayayayayayaCauauauauauauauauauaDayaCauauauau
+auauauauauauauauauauauaDayayaCauauauauauauauauauauauauauauauauauauauau
+auauauauauauauauauauauauaIaIatauauauauauauauauauauauauauauauauauauauau
+"}
+
+(1,1,3) = {"
+auauauauauauauauauauauauauauaJaJatauauauauauauauauauauauauauauauauauau
+auauauauauauauauauauauauauauayayaAauauauauauauauauauauauauauauauauauau
+auauauauazayayayaAauauauauauayayayayayayaAauauauauauauauauauauauauauau
+auauazayayayayayayatauauauauayayayayayayayayayayayaAauauauauauauauauau
+auauayayayayayayayaAauauauauaDayayayayayayayayayayayayayayayayayaAauau
+auauayayayayayayayayatauauauauauauaDayayayayayayayayayayayayayayayatau
+auauayayayayayayayayaAauauauauauauauauaDayayayayayayayayayayayayayatau
+auauayayayaCaDayaBayayatauauauauauauauauayayayayayayayayayayayayayatau
+auauayayayaAauayayayayaAauauauauauauauauayayayayayaCauaDayayayayayatau
+auauayayayayataDayayayayayaAauauauauauazayayayayayauauauayayayayayatau
+auauayayayayatauayayayayayayayayayayayayayayayayayauauauaDayayayayatau
+auauayayayayatauayayayayayayayayayayayayayayayayaCauauauauayayayayatau
+auauaDayayayaAazayayayayayayayayayayayayayayayayatauauauauayayayayatau
+auauauayayayayayayayayayayayayayayayayayayayayayatauauauauayayayayatau
+auauauayayayayayayayayayayayayayayayaCaDaCaDayayatauauauauayayayayatau
+auauauaDayayayayayayayayayayayayayayaAauauazayayatauauauazayayayayatau
+auauauauauauauaDayayaCauaDayayayayayayayayayayayaAauauazayayayayayatau
+auauauauauauauauauauauauauauaDayayayayayayayaKayayayayayayayayayayatau
+auauauauauauauauauauauauauauauaDayayayayayayayayayayayayayayayayaCauau
+auauauauauauauazayayayaAauauauauayayayayayayaCaDayayayayayayayayatauau
+auauazayayayayayayayayayatauauauayayayayayayatauaDayayayayayayayatauau
+auauayayaLadaeafadaMayayatauauauayayayayayayatauauayayayayayayayatauau
+auauayaNaOahagagahaPaNayaAauauauayayayayayaCauauauayayayayayayayatauau
+auauayaQayayaRaSayayaQayayatauazayayayayayatauauauayayayayayayayatauau
+auauayaTayayaUaVayayaTayayatauayayayayayayatauauauayayayayayayayatauau
+auazayayayaWayayaWayayayayaAazayayayayayayaAauauazayayayaXayayayaAauau
+ayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayaYaYaZ
+auauayaybaaybbayaybcayayayayayayayayayayayayayayayayayayayayayaYaYaYaZ
+auauaDaybdayayayaybeayayayayayayayayayayayayayayayayayayayayaCauauauau
+auauauayayayayayayayayayaybfayayayayayayayayayayayayayayayayatauauauau
+auauauaDayayayayayayayayayayayayayayayayayayayayaybgayayayayatauauauau
+auauauauayayayayayayayayaCauauauauauauauauauauaDayayayayayayatauauauau
+auauauauaDayayayayayayaCauauauauauauauauauauauauaDayayayayaCauauauauau
+auauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauau
+auauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauau
+"}
+
+(1,1,4) = {"
+auauauauauauauauauauauauauauauauauasasasasasasasasasasasasasasasasasas
+auauauauauauauauauauauauauauauauauauasasawasasasasasasasasawasasasavas
+auauauauauauauauauauauauauauauauauauauasasasasasasasasasasasasasasasas
+bhayayayaAazayayaAauauauauauauauauauauasasavasasasasasasasasasasasasas
+bhayayayayayayayaxatauauauauauauazayaxasasasasasasasasavasasasasasasas
+auauaDayayayayayayaAauauauauazayayayaxasasasasasawasasasasasasasasasas
+auauauayayayayayayayayayayayayayayayaxasasasasasasasasasasasasasasawas
+auauazayayayayayayayayayayayayayayayayaxaxaxaxaxasasasasasasasasasasas
+auauayayayayayayayayayayayayayaBayayayayayayayayaxaAauauauauauasasasas
+auauayayayayayayayayayayayayayayayayayayayayayayayayayaAauauauauauauau
+auauayayayayayaCauauauauaDayayayayayayayayayayayayayayayaAauauauauauau
+auauaDayayayayatauauauauauaDaxayayayayayayayayayayayaGayayayaAauauauau
+auauauayayayayatauauauauauauauaDayayayayayayayayayayayayayayayatauauau
+auauauayayayayaAauauauauauauauauauauauauauaDayayayayayayayayayaAauauau
+auauauaxayayayayatauauauauauauauauauauauauauayayayayayayayayayayatauau
+auauauayayayayayaAauauauauauauauauauauauauazayayayayayayayayayayatauau
+auauauaDayayayayayatauauauauauauauauauazayayayayayayayayayayayayaAauau
+auauauauauaDayayayatauauauauauazayaxayayayayayayayaCauauauaDayayayatau
+auauauauauauayayayaAauauauazayayayayayayayayayayayatauauauazayayayatau
+auauauauauauayayayayayayayayayaybfayayayayayayayayaAauazayayayayaxatau
+auauauauauazayayayayayayayayayayayayayayayayayayayayayayayayayayayatau
+auauauauazayayayayayayayayayayayayayayayayayayayayayayayayayayayayaAau
+auauauauayayayayayayayayayayayayayayayayayayayaxayayayayayayayayayaybi
+auauauauayayayayaxaCauauauauauauaDayayayaCauauauauauauauauauaDayayaybi
+auauauauayayayaCauauauauauauauauauayayayauauauauauauauauauauauauauauau
+auauauazayayayatauauauauauauauauauayayayauauauauauauauauauauauauauauau
+auauauaxayayayatauauauazayayaAauauaDayayaAauauauauauazayayayayaAauauau
+auaubjayayayaCauauauauayayaBayauauauayayayayayayaxayayayayayayayatauau
+bkayayayayayatauauauazayayayaxauauauaDayayayayayayayayayayayayayatauau
+bkayayayayayatauauazayayayayayauauauauauauauauauaDayayayayayayayaAauau
+auauaDayayaCauauauayayayayayayaAauauauauauauauauazayayayayayayayayatau
+auauauauauauauauauaDayayayayayayayayayayayayayayayayayayayayayayayatau
+auauauauauauauauauauayaCaDayayayayayayayayayayayayayayayayayayayaCauau
+auauauauauauauauauauayauauauauauauauauauauauauauauauauauauauauauauauau
+auauauauauauauauauazayaAauauauauauauauauauauauauauauauauauauauauauauau
+"}
+
+(1,1,5) = {"
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblblbl
+blblayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayblbl
+blblayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayblbl
+blblayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayblbl
+blblayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayblbl
+blblayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayblbl
+blblayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayblbl
+blblayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayblbl
+blblayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayblbl
+blblayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayblbl
+blblayayayayayayayayayayayayayayayayayayayayayayayauauauauauauauauauau
+blblayayayayayayayayayayayayayayayayayayayayayayayauauauauauauauauauau
+blblayayayayayayayayayayayayayayayayayayayayayayayauauauauauauauauauau
+blblayayayayayayayayayayayayayayayayauauauauauauauauauauauaubmbmauauau
+blblayayayayayayayayayayayayayayayayauauauauauauauauauauauaubnbnatauau
+blblayayayayayayayayayayayayayayayayauauauauauauauauauauauauboboatauau
+blblayayayayayayayayayayayayayayayayauauauazayayayaAauauauazayayatauau
+blblayayayayayayayayayayayayayayayayauauauayayayayayatauazayayayatauau
+blblayayayayayayayayayayayayayayayayauauauaxayayayayatauayayayayatauau
+blblayayayayayayayayayayayayayayayayauauauayayaBayayaAazayayayayatauau
+blblayayayayayayayayayayayayayayayayauauauayayayayayayayayayaxaCauauau
+blblayayayayayayayayayayayayayayayayauauauayayayayayayayayaCauauauauau
+blblayayayayayayayayayayayayayayayayauauauayayayayaCauauauauauauauauau
+blblayayayayayayayayayayayayayayayayauauauayayayayaAauauauauauauauauau
+blblayayayayayayayayayayayayayayayayauauauaDayayayayayayaAauauauauauau
+blblayayayayayayayayayayayayayayayauauauauauaDayayayayayayayayaAauauau
+blblayayayayayayayayayayayayayayayauauauauauauayayayayayayayayayayaybp
+blblayayayayayayayayayayayayayauauauauauauauauaDaxayayayayayayayayaybp
+blblayayayayayayayayayayayayayauauauauauauauauauaDayayayayayayayaCauau
+blblayayayayayayayayayayayayayauauauauauauauauauauaDayayayaxayaCauauau
+blblayayayayayayayayayayayayayauauauauauauauauauauauauauauauauauauauau
+blblayayayayayayayayayayayayayauauauauauauauauauauauauauauauauauauauau
+blblblblblblblblblblblblblblblauauauauauauauauauauauauauauauauauauauau
+blblblblblblblblblblblblblblblauauauauauauauauauauauauauauauauauauauau
+"}
+
+(1,1,6) = {"
+auauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauau
+auauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauau
+auauauauauauauauauauauauauauauauauauauauauazayayayayayayayayayayaAauau
+auauauazayayayayayayayaxayayayayaAauauauazayayayayayayayayayayayayatau
+auauauayayayayayayayayayayayayayayayayayayayayayayayayayayayayayaxatau
+auauauayayayayayayayayayayayayayayayayayayayayayayaybqayayayayayayatau
+auauauayayayayayayayayayayayayayaybgayayayayayayayayayayayayayayayatau
+auauauayayaybrayayayaCaDayayayayayayayayayayayayayayayayayayayayayatau
+auauauayayayayayayayatauayayayayayayayayayayayayayayayayayayayayayatau
+auauauaDayayayayayayatauaDayayayayayayayayaCauauauauauauaDayayayayatau
+auauauauaDayayayayayaAauauayayayayayayaCauauauauauauauauazayayayayatau
+auauauauauayayayayayayatauayayayayayayatauauauauazayayayayayayayayatau
+auauauauauayayayayayayatauayayayayayaCauauauauauaxayayayayayayayayatau
+auauauauazayayayayayayaAazayayayayayatauauauauazayaybsayayayayayayatau
+auauazaxayayayayayayayayayayayayayayatauauazayayayayayayayayayayayatau
+auauayayayayayayayayayayayayayayayayaAauazayayayayayayayayayayayayatau
+auauayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayaCauau
+auauayayayayayayayayayayayayayayayayayayayayayayayayayayaCauauauauauau
+auauayayayayayaxayayayayayayayayaybtayayayayayaCauauauauauauauauauauau
+auauayayayayayayaybfayayayayayayayayayayayayaxatauauauauauauauauauauau
+auauaDayayayayayayayayayayayayayayayayayayayayaAauauauauauauauauauauau
+auauauauauaDayayayayayayayayayayayayayayayayayayayayaAauauazayayaxasas
+auauauauauauayayayayayayayayayayayayayayayayayayayayayayayayayayaxasav
+auauauauauauayayayayayaCauauauauaDayayayayayayayayayayayayayayayaxasas
+auauauauauazayayayayayatauauauauauauauaDayayayayayayayayayayayaxasasas
+auauauauazayayayayayayaAauauauauauauauauaxayayayayayayayayayayaxasawas
+auauauazayayayayayayayayayaAauauauauauauayayayayayayayayayayayaxasasas
+auauazayayayayayayayayayayayaAauauauauazayayayaybuayayayayayaxasasasas
+bvaYayayaBayayayayayayayayayayayayayayayayayayayayayayayayayaxasavasas
+bvayayayayayayayayayayayayayayayayayayayayayayayayayayayaxaxasasasasas
+auauaDayayayayayaxayayayayayayayayayayayayayayaxaxaxaxaxasasasasasasas
+auauauauauauauauauauauaDayayayayayayayayayayaxasasasasasasasasasasawas
+auauauauauauauauauauauauaDayayayayayayayayayaxasawasasavasasasasasasas
+auauauauauauauauauauauauauauauauauauauauauauauasasasasasasasasasavasas
+auauauauauauauauauauauauauauauauauauauauauauauasasasasasasawasasasasas
+"}
+
+(1,1,7) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bwbxbybzbAbBbCbDbEbFbGbHbIbJbKbLbMbNbObPbQaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bRbSbTbUbVbWbXbYbZcacbcccdcecfcgchcicjckclaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cmcncocpcqcrcsctcucvcwcxcyczcAcBcCcDcEcFcGaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cHcIcJcKcLcMcNcOcPcQcRcScTcUcVcWcXcYcZdadbaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dcdddedfdgdhdidjdkdldmdndodpdqdrdsdtdudvdwaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dxdydzdAdBdCdDdEdFdGdHdIdJdKdLdMdNdOdPdQdRaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dSdTdUdVdWdXdYdZeaebecedeeefegeheiejekelemaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+eneoepeqereseteuevewexeyezeAeBeCeDeEeFeGeHaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+eIeJeKeLeMeNeOePeQeReSeTeUeVeWeXeYeZfafbfcaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+fdfefffgfhfifjfkflfmfnfofpfqfrfsftfufvfwfxaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+fyfzfAfBfCfDfEfFfGfHfIfJfKfLfMfNfOfPfQfRfSaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+fTfUfVfWfXfYfZgagbgcgdgegfggghgigjgkglgmgnaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+gogpgqgrgsgtgugvgwgxgygzgAgBgCgDgEgFgGgHgIaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+gJgKgLgMgNgOgPgQgRgSgTgUgVgWgXgYgZhahbhchdaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+hehfhghhhihjhkhlhmhnhohphqhrhshthuhvhwhxhyaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+hzhAhBhChDhEhFhGhHhIhJhKhLhMhNhOhPhQhRhShTaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+hUhVhWhXhYhZiaibicidieifigihiiijikiliminioaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ipiqirisitiuiviwixiyiziAiBiCiDiEiFiGiHiIiJaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+iKiLiMiNiOiPiQiRiSiTiUiViWiXiYiZjajbjcjdjeaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+jfjgjhjijjjkjljmjnjojpjqjrjsjtjujvjwjxjyjzaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

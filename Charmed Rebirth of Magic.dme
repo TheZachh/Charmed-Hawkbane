@@ -1,0 +1,66 @@
+// DM Environment file for Charmed untitled.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+/*
+FILE: obj.dm
+DIR:
+MAP_ICON_TYPE: 0
+AUTO_FILE_DIR: ON
+*/
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "backup"
+#define FILE_DIR "BMP"
+#define FILE_DIR "magicgood"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "AI Monsters.dm"
+#include "Bann System.dm"
+#include "Book of Evil Magic.dm"
+#include "Book of Good Magic.dm"
+#include "Browser.dm"
+#include "Demon Market.dm"
+#include "Gm.dm"
+#include "Guild.dm"
+#include "Hollow.dm"
+#include "House Signs.dm"
+#include "items.dm"
+#include "Login Handleing.dm"
+#include "Login.dm"
+#include "magicgood.dm"
+#include "Misc.dm"
+#include "New World.dm"
+#include "NPC.dm"
+#include "obj.dm"
+#include "panels.dm"
+#include "Pheonixman.dm"
+#include "Role Play.dm"
+#include "Schools.dm"
+#include "Skill System.dm"
+#include "SyncWolf.dm"
+#include "Tasks.dm"
+#include "Triad.dm"
+#include "Turfs.dm"
+#include "Vars.dm"
+#include "Whitelighter System.dm"
+#include "Arena.dmp"
+#include "Cleaned.dmp"
+#include "Demon Market.dmp"
+#include "Demon School.dmp"
+#include "Heaven.dmp"
+#include "House Ideas.dmp"
+#include "House1.dmp"
+#include "NewWorld.dmp"
+#include "RolePlay Zone.dmp"
+#include "Shop.dmp"
+#include "Underworld Lairs.dmp"
+#include "Underworld.dmp"
+// END_INCLUDE
+

@@ -1,0 +1,304 @@
+"aa" = (/turf/tile33,/turf/barrier,/area)
+"ab" = (/turf/tile17,/turf/barrier,/area)
+"ac" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "0,7"},/turf/barrier,/area)
+"ad" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "1,7"},/turf/density,/turf/barrier,/area)
+"ae" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "2,7"},/turf/density,/turf/barrier,/area)
+"af" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "3,7"},/turf/density,/turf/barrier,/area)
+"ag" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "4,7"},/turf/density,/turf/barrier,/area)
+"ah" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "5,7"},/turf/barrier,/area)
+"ai" = (/turf/tile33,/area)
+"aj" = (/turf/tile17,/area)
+"ak" = (/turf/tile33,/turf/barrier,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "0,6"},/turf/density,/area)
+"al" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "1,6"},/turf/density,/area)
+"am" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "2,6"},/turf/density,/area)
+"an" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "3,6"},/turf/density,/area)
+"ao" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "4,6"},/turf/density,/area)
+"ap" = (/turf/tile33,/turf/barrier,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "5,6"},/turf/density,/area)
+"aq" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "0,5"},/turf/density,/area)
+"ar" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "1,5"},/turf/density,/area)
+"as" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "2,5"},/turf/density,/area)
+"at" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "3,5"},/turf/density,/area)
+"au" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "4,5"},/turf/density,/area)
+"av" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "5,5"},/turf/density,/area)
+"aw" = (/turf/tile33,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "0,3"},/area)
+"ax" = (/turf/tile33,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "1,3"},/area)
+"ay" = (/turf/tile33,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "2,3"},/area)
+"az" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "0,4"},/turf/density,/area)
+"aA" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "1,4"},/turf/density,/area)
+"aB" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "2,4"},/turf/density,/area)
+"aC" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "3,4"},/turf/density,/area)
+"aD" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "4,4"},/turf/density,/area)
+"aE" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "5,4"},/turf/density,/area)
+"aF" = (/turf/tile33,/turf/tile91,/area)
+"aG" = (/turf/tile33,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "0,2"},/area)
+"aH" = (/turf/tile33,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "1,2"},/area)
+"aI" = (/turf/tile33,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "2,2"},/area)
+"aJ" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "0,3"},/turf/density,/area)
+"aK" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "1,3"},/turf/density,/area)
+"aL" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "2,3"},/turf/density,/area)
+"aM" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "3,3"},/turf/density,/area)
+"aN" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "4,3"},/turf/density,/area)
+"aO" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "5,3"},/turf/density,/area)
+"aP" = (/turf/tile33,/turf/tile92,/area)
+"aQ" = (/turf/tile33,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "0,1"},/area)
+"aR" = (/turf/tile33,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "1,1"},/area)
+"aS" = (/turf/tile33,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "2,1"},/area)
+"aT" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "0,2"},/turf/density,/area)
+"aU" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "1,2"},/turf/density,/area)
+"aV" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "2,2"},/turf/density,/area)
+"aW" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "3,2"},/turf/density,/area)
+"aX" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "4,2"},/turf/density,/area)
+"aY" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "5,2"},/turf/density,/area)
+"aZ" = (/turf/tile33,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "0,0"},/area)
+"ba" = (/turf/tile33,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "1,0"},/area)
+"bb" = (/turf/tile33,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "2,0"},/area)
+"bc" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "0,1"},/turf/density,/area)
+"bd" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "1,1"},/turf/density,/area)
+"be" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "2,1"},/turf/density,/area)
+"bf" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "3,1"},/turf/NewWorld/Teleport/Heaven/HeavenToTemple,/area)
+"bg" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "4,1"},/turf/density,/area)
+"bh" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "5,1"},/turf/density,/area)
+"bi" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "0,0"},/turf/density,/turf/NewWorld/Decor/Plant{tag = ""; icon_state = "0,1"},/area)
+"bj" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "1,0"},/turf/density,/area)
+"bk" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "2,0"},/turf/density,/area)
+"bl" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "3,0"},/area)
+"bm" = (/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "4,0"},/turf/density,/area)
+"bn" = (/turf/tile33,/turf/NewWorld/Buildings/Temple{tag = ""; icon_state = "5,0"},/turf/density,/turf/NewWorld/Decor/Plant{tag = ""; icon_state = "0,1"},/area)
+"bo" = (/turf/tile33,/turf/NewWorld/Decor/Plant{tag = ""; icon_state = "0,0"},/area)
+"bp" = (/turf/tile21,/area)
+"bq" = (/turf/tile33,/turf/tile24,/area)
+"br" = (/turf/tile33,/turf/tile35,/area)
+"bs" = (/turf/tile22,/area)
+"bt" = (/turf/tile33,/turf/tile20,/turf/tile132,/area)
+"bu" = (/turf/tile33,/turf/tile23,/turf/tile132,/area)
+"bv" = (/turf/tile33,/turf/tile131,/area)
+"bw" = (/turf/tile109,/area)
+"bx" = (/mob/NewWorld/Whitelighter/Corusius,/turf/tile109,/area)
+"by" = (/turf/tile33,/turf/tile94,/area)
+"bz" = (/turf/tile33,/turf/tile93,/area)
+"bA" = (/turf/tile33,/turf/NewWorld/Decor/Fountain{tag = ""; icon_state = "0,2"},/area)
+"bB" = (/turf/tile33,/turf/NewWorld/Decor/Fountain{tag = ""; icon_state = "1,2"},/area)
+"bC" = (/turf/tile33,/turf/NewWorld/Decor/Fountain{tag = ""; icon_state = "0,1"},/area)
+"bD" = (/turf/tile33,/turf/NewWorld/Decor/Fountain{tag = ""; icon_state = "1,1"},/area)
+"bE" = (/turf/tile33,/turf/NewWorld/Decor/Fountain{tag = ""; icon_state = "0,0"},/area)
+"bF" = (/turf/tile33,/turf/NewWorld/Decor/Fountain{tag = ""; icon_state = "1,0"},/area)
+"bG" = (/turf/tile33,/turf/Area/Heaven,/area)
+"bH" = (/turf/tile33,/turf/teleport/Heavengate,/area)
+"bI" = (/turf/tile33,/turf/Area/HeavenSouth,/area)
+"bJ" = (/turf,/area)
+"bK" = (/turf/grass,/area)
+"bL" = (/turf/grass,/turf/NewWorld/Decor/Bush/Plant4,/area)
+"bM" = (/turf/grass,/turf/NewWorld/Decor/Bush/Plant1,/area)
+"bN" = (/turf/tile33,/turf/tile132,/area)
+"bO" = (/turf/tile33,/turf/tile9,/turf/teleport/DeathToEarth,/area)
+"bP" = (/turf/grass,/turf/NewWorld/Decor/Bush/Plant2,/area)
+"bQ" = (/turf/grass,/turf/NewWorld/Decor/Fountain{tag = ""; icon_state = "0,2"},/area)
+"bR" = (/turf/grass,/turf/NewWorld/Decor/Fountain{tag = ""; icon_state = "1,2"},/area)
+"bS" = (/turf/grass,/turf/NewWorld/Decor/Plant{tag = ""; icon_state = "0,1"},/area)
+"bT" = (/turf/grass,/turf/NewWorld/Decor/Fountain{tag = ""; icon_state = "0,1"},/area)
+"bU" = (/turf/grass,/turf/NewWorld/Decor/Fountain{tag = ""; icon_state = "1,1"},/area)
+"bV" = (/turf/grass,/turf/NewWorld/Decor/Bush,/area)
+"bW" = (/turf/grass,/turf/NewWorld/Decor/Plant{tag = ""; icon_state = "0,0"},/area)
+"bX" = (/turf/grass,/turf/tile113,/area)
+"bY" = (/turf/grass,/turf/NewWorld/Decor/Fountain{tag = ""; icon_state = "0,0"},/area)
+"bZ" = (/turf/grass,/turf/NewWorld/Decor/Fountain{tag = ""; icon_state = "1,0"},/area)
+"ca" = (/obj/tile115,/turf/grass,/area)
+"cb" = (/turf/grass,/turf/treenew{tag = ""; icon_state = "0,2"},/area)
+"cc" = (/turf/grass,/turf/treenew{tag = ""; icon_state = "1,2"},/area)
+"cd" = (/turf/grass,/turf/treenew{tag = ""; icon_state = "0,2"},/turf/NewWorld/Decor/Bush/Plant4,/area)
+"ce" = (/turf/grass,/turf/NewWorld/Decor/Bush/Plant5,/area)
+"cf" = (/turf/grass,/turf/treenew{tag = ""; icon_state = "0,1"},/area)
+"cg" = (/turf/grass,/turf/treenew{tag = ""; icon_state = "1,1"},/area)
+"ch" = (/turf/grass,/turf/treenew{tag = ""; icon_state = "0,0"},/turf/treesecurity/left,/area)
+"ci" = (/turf/grass,/turf/treenew{tag = ""; icon_state = "1,0"},/turf/treesecurity/right,/area)
+"cj" = (/obj/tile114,/turf/grass,/area)
+"ck" = (/turf/grass,/turf/NewWorld/Decor/Bush/Plant3,/area)
+"cl" = (/turf/grass,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "0,3"},/area)
+"cm" = (/turf/grass,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "1,3"},/area)
+"cn" = (/turf/grass,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "2,3"},/area)
+"co" = (/turf/grass,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "0,2"},/area)
+"cp" = (/turf/grass,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "1,2"},/area)
+"cq" = (/turf/grass,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "2,2"},/area)
+"cr" = (/turf/grass,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "0,1"},/area)
+"cs" = (/turf/grass,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "1,1"},/area)
+"ct" = (/turf/grass,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "2,1"},/area)
+"cu" = (/turf/grass,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "0,0"},/area)
+"cv" = (/turf/grass,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "1,0"},/area)
+"cw" = (/turf/grass,/turf/NewWorld/Decor/Statue{tag = ""; icon_state = "2,0"},/area)
+"cx" = (/turf/grass,/turf/treenew{tag = ""; icon_state = "0,2"},/turf/NewWorld/Decor/Bush/Plant5,/area)
+"cy" = (/turf/grass,/turf/tile132,/area)
+"cz" = (/turf/tile33,/turf/tile130,/area)
+"cA" = (/turf/tile33,/turf/tile129,/area)
+"cB" = (/turf/tile33,/turf/Area/GoodDeath,/area)
+"cC" = (/turf/tile33,/turf/barrier,/turf/tile94,/turf/opacity,/area)
+"cD" = (/turf/tile33,/turf/Area/HeavenNorth,/area)
+"cE" = (/turf/tile33,/turf/barrier,/turf/tile93,/turf/opacity,/area)
+"cF" = (/turf/tile94,/turf/opacity,/area)
+"cG" = (/turf/tile33,/turf/barrier,/turf/opacity,/area)
+"cH" = (/turf/tile33,/turf/tile94,/turf/opacity,/area)
+"cI" = (/turf/tile17,/turf/barrier,/turf/opacity,/area)
+"cJ" = (/turf/tile22,/turf/NewWorld/Decor/ElderStatue/e3,/area)
+"cK" = (/turf/tile22,/turf/NewWorld/Decor/ElderStatue/e4,/area)
+"cL" = (/turf/tile18,/area)
+"cM" = (/turf/tile18,/turf/tile132,/area)
+"cN" = (/turf/tile18,/turf/NewWorld/Decor/ElderStatue/e1,/area)
+"cO" = (/turf/tile18,/turf/NewWorld/Decor/ElderStatue/e2,/area)
+"cP" = (/mob/Training_machine4,/turf/grass,/area)
+"cQ" = (/mob/Training_machine,/turf/grass,/area)
+"cR" = (/turf/tile18,/turf/tile131,/area)
+"cS" = (/mob/Training_machine3,/turf/grass,/area)
+"cT" = (/mob/Training_machine2,/turf/grass,/area)
+"cU" = (/turf/tile18,/turf/NewWorld/Teleport/Heaven/TempleToHeaven,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaabacadaeafagahabaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaa
+aiaiaiaiaiaiaiaiaiaiaiaiajaiaiaiajakalamanaoapajaiaiaiajaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiajaiaiaiajaqarasatauavajaiaiaiajaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiajawaxayajazaAaBaCaDaEajawaxayajaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaFaiaiaiaiaiaiaiajaGaHaIajaJaKaLaMaNaOajaGaHaIajaiaiaiaiaiaiaFaiaiaiaiaa
+aiaiaiaiaPaiaiaiaiaiaiaiajaQaRaSajaTaUaVaWaXaYajaQaRaSajaiaiaiaiaiaiaPaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiajaZbabbajbcbdbebfbgbhajaZbabbajaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiajaiaiaiajbibjbkblbmbnajaiaiaiajaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiajaiaiaiajboaiaiaiaiboajaiaiaiajaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiajaiaiaiajajajaiaiajajajaiaiaiajaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiajaiaFaibpbpbqaiaibrbpbpaiaFaiajaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiajaiaPaibsbsbtaiaibubsbsaiaPaiajaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiajaiaiaiaiaibvaiaibvaiaiaiaiaiajaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiajajajajbwbwbwbwbwbwbwbwajajajajaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiajbwbwbxbwbwbwbwbwajaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiajbwbwbwbwbwbwbwbwajaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaFaiaiaiaiaiaiaiaiaiaiajaiaiaiaiaiaiaiaiajaiaiaiaiaiaiaiaiaiaFaiaiaiaiaa
+aiaiaiaiaPaiaiaiaiaiaiaiaiaiaiajaiaiaiaiaiaiaiaiajaiaiaiaiaiaiaiaiaiaPaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiajbwbwbwbwbwbwbwbwajaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaibyajbwbwbwbwbwbwbwbwajbyaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaibzajbwbwbwbwbwbwbwbwajbzaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiajbwbwbwbwbwbwbwbwajaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaibyaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaibyaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaibzaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaibzaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaFaiaiaiaiaiaiaiaiaibyaiaiaiaiaiaiaiaiaiaibyaiaiaiaiaiaiaiaiaFaiaiaiaiaa
+aiaiaiaiaPaiaiaiaiaiaiaiaiaibzaiaiaiaiaiaiaiaiaiaibzaiaiaiaiaiaiaiaiaPaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaibyaiaiaiaiaiaiaibAbBaiaiaiaiaiaiaibyaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaibzaiaiaiaiaiaiaibCbDaiaiaiaiaiaiaibzaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaibEbFaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaFaiaiaiaiaiaiaiaiaibyaiaiaiaiaiaiaiaiaiaibyaiaiaiaiaiaiaiaiaFaiaiaiaiaa
+aiaiaiaiaPaiaiaiaiaiaiaiaiaibzaiaiaiaibGbHaiaiaiaibzaiaiaiaiaiaiaiaiaPaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaibyaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaibyaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaibzaiaiaiaiaFaiaiaiaiaiaFaiaiaiaiaibzaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaPaiaiaiaiaiaPaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaibyaiaiaiaiaiaiaiaiaiaibyaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaibzaiaiaiaibIbIaiaiaiaibzaiaiaiaiaiaiaiaiaiaiaiaiaiaa
+"}
+
+(1,1,2) = {"
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabKbKbKbKbLbKbKbKbKbKbKbKbKbMbKbKbKbKbNaibOaibNbKbKbKbKbKbKbKbKbKbKbKbPbKbKbKaa
+aabKbQbRbKbKbKbKbKbKbKbKbKbKbKbKbKbSbKbvaiaiaibvbKbSbKbKbKbKbKbKbKbKbKbKbQbRbKaa
+aabKbTbUbKbKbKbKbKbKbVbKbKbKbKbKbKbWbKbKbXaibXbKbKbWbKbKbKbKbVbKbKbKbKbKbTbUbKaa
+aabKbYbZbKbKbKbKbKbKbKbKbKbKbKbKbKbKcacbccaicdcccabKbKbKbKbKbKbKbKbMbKbKbYbZbKaa
+aabKbKbKbKbKbKbKbKcebKbKbKbKbKbKbVbKbKcfcgaicfcgbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKcebKchciaichcibKbKbKbVbKbKbKbKbKbKbKbKbKbKbKaa
+aabKbKbMbKbKbKbKbKbKbKbKbKbKbKbKbKbKcabKbMaibKbKcabKbKbKbKbLbKbKbKbKbKbKbKbKbLaa
+aabKbKbKbKbVbKbKbKbKbKbKbKbKbKbKbKbKbKcjbKaibKcjbKbKbKbKbKbKbKbKbKbKbVbKbKbKbKaa
+aabKbKbKbKbKbKbKbKbKbKbKbKbKckbKbKbKbKbKbKaibKckbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbKbKbKbVbKbKbKbKbKbKbKcacbccaicbcccabKbKbKbVbKbKbKbKbKbKbKbKbKbKaa
+aabKbKbVbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKcfcgaicfcgbKbKbMbKbKbKbKbKbPbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbKbKbKbKbMbKbKbKbKbKckbKchciaichcibKbKbKbKbKbKbKbKbKbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbLbKbKbKbKbKbKbKbKbKbKcabKbKaibLbKcabKbKbKbKbKbKbKbKbKbVbKbKckbKaa
+aabKbKbKbKbKbKbKbKbKbKbKbKbVbKbKbKcebKcjbKaibKcjbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKaa
+aabKbPbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbPbKbKaibKbKckbKbKbKbKbVbKcebKbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKcacbccaicbcccabKbKbKbKbKbKbKbKbKbKbKbKbKbKaa
+aabKbKbKbKbKbVbKbKbKbKbVbKbKbKbKbKbKbKcfcgaicfcgbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKaa
+aabKbKckbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKchciaichcibKbKbKbKbKbKbKbKbVbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbKbKbMbKbKclcmcnbKbKbKcabKbLaibKbKcabKbKbKclcmcnbKbKbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbKbKbKbKbKcocpcqbKbMbKbKcjbKaibKcjbKbPbKbKcocpcqbKbKbKbKbKbPbKbKaa
+aabPbKbKbKbKbKbKbKbKbKbKcrcsctbKbKbKbKbKbKaibKbKbKbKbKbKcrcsctbKbKbKbLbKbKbKbKaa
+aabKbKbKbKbVbKbKbKbKbKbKcucvcwbKbKbKcacbccaicxcccabKbKbKcucvcwbKbKbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKcfcgaicfcgbKbKbKbKbKbKbKbKbKbKbKbVbKbKbKaa
+aabKbKbKbKbKbKbKbLbKbKbKbKbKbKbKbKcybKchciaichcibKcybKbKbKbKbKbMbKbKbKbKbKbKbPaa
+aabKbMbKbKbKbKbKbKbKbKbKbKbKbKbKbKbvaiaiaiaiaiaiaibvbKbKbKbKbKbKbKbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbKbKbKbKbKbKbKcjbKbKaiaiaiaiaiaiaiaiaibKbKcjbKbKbKbKbKbKbKckbKbKaa
+aabKbKbKbKbKbKbKbKbKbKbVbKbKbKbKbLaiaiaiaiczaiaiaiaibPbKbKbKbKbKbVbKbKbKbKbKbKaa
+aabKbKbKbKcebKbKbKbPbKbKbKbKbKbKbKaiaiaiaicAaiaiaiaibKbKbKbKbKbKbKbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbKbKbKbKbKbKbKbKcabKaiaiaiaiaiaiaiaiaibKcabKbKbKbKbKbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbVbKbKbKbKbKbKbKbKbKaiaiaiaicBaiaiaiaibKbKbKbKbKbKbKbKbKbVbKbKbKaa
+aabKbKbKbKbKbKbKbKbKbKbKbKbKbKckbKaiaiaiaiaiaiaiaiaibKcebKbKbKbKbKbPbKbKbKbKbKaa
+aabKbKckbKbKbKbKbKbKbKbKbKbKcjbKbKbNaiaiaiaiaiaiaibNbKbKcjbKbKbKbKbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbKbKbKbMbKbKbKbKbKbKbvaiaiaiaiaiaiaibvbKbKbKbKbKcebKbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbMbKbKbKbKbKbKbKbKbKbKbKbMbKbKbKaa
+aacebKbKbKbVbKbKbKbKbKbKbKbKbKbKbKbKcabKbPbKbKbKcabKbKbKbKbKbKbKbKbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbKbKbKbKbKbKbVbKbKbKbKbKbKbKcjbKbKbKbKbKbKbKbKbKbKbVbKbKbKbKbVbKaa
+aabKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKaa
+aabKbKbKbKbKbKbKbLbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbKbLbKbKbKbKbKbKbKbKbKbKaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,3) = {"
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJcCcDcDcCbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJcEaiaicEbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJaaaiaiaabJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJaaaiaiaabJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJcCaiaicCbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJcEaiaicEbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJaaaiaiaabJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJaaaiaiaabJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJcFbJbJbJcCaiaicCbJbJbJcFbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJaaaacEaaaaaacEaiaicEaaaaaacEaaaabJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJcCaiaiaiaiaiaiaiaiaiaiaiaiaiaicCbJbJbJbJbJbJbJbJbJbJbJbJbJ
+aaaaaaaaaaaaaaaaaaaaaacEaiaiaiaiaiaiaiaiaiaiaiaiaiaicEaaaaaaaaaaaaaaaaaaaaaaaaaa
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiai
+aiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiai
+aiaicGcGcGcGcGcGcGcGcGcCaiaiaiaiaiaiaiaiaiaiaiaiaiaicCcGcGcGcGcGcGcGcGcGcGcGaiai
+aiaicGbJbJbJbJbJbJbJbJcEaiaiaiaiaiaiaiaiaiaiaiaiaiaicEbJbJbJbJbJbJbJbJbJbJcGaiai
+aiaicGbJbJbJbJbJbJbJbJaaaiaiaiaiaiaiaiaiaiaiaiaiaiaiaabJbJbJbJbJbJbJbJbJbJcGaiai
+aiaicGbJbJbJbJbJbJbJbJaaaiaiaiaiaiaiaiaiaiaiaiaiaiaiaabJbJbJbJbJbJbJbJbJbJcGaiai
+aiaicGbJbJbJbJbJbJbJbJcCaiaiaicHaiaicHcHaiaicHaiaiaicCbJbJbJbJbJbJbJbJbJbJcGaiai
+aiaicGbJbJbJbJbJbJbJbJcEcGcGcGcEcGcGcEcEcGcGcEcGcGcGcEbJbJbJbJbJbJbJbJbJbJcGaiai
+aiaicGbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJcGaiai
+aiaicGbJbJbJbJbJbJbJbJbJbJbJcIcIcIcIcIcIcIcIcIcIbJbJbJbJbJbJbJbJbJbJbJbJbJcGaiai
+aiaicGbJbJbJbJbJbJbJbJbJbJbJcIbpbpbpbpbpbpbpbpcIbJbJbJbJbJbJbJbJbJbJbJbJbJcGaiai
+aiaicGcGcGcGcGcGcGcGcGcGbJbJcIbsbsbscJcKbsbsbscIbJbJcGcGcGcGcGcGcGcGcGcGcGcGaiai
+aiaiaiaiaiaiaiaiaiaiaicGbJbJcIcLcMcLcNcOcLcMcLcIbJbJcGaiaiaiaiaiaiaiaiaiaiaiaiai
+aibKbKcPbKbKbPbKbKcQaicGbJbJcIcLcRcLcLcLcLcRcLcIbJbJcGaicQbKbKbKbKbKbKbKcPbKbKai
+aibKbKbKbKbKbKbKbKbKaicGbJbJcIcLcLcLcLcLcLcLcLcIbJbJcGaibKbKbKbLbKbKbPbKbKbKbKai
+aibKbKbKbKbKbKbKbKbKaicGbJbJcIcLcLcLcLcLcLcLcLcIbJbJcGaibKbKbKbKbKbKbKbKbKcebKai
+aibKbKbLbKbKbKbKbKceaicGbJbJcIcLcLcLcLcLcLcLcLcIbJbJcGaibKbKbKbKbKckbKbKbKbKbKai
+aibKbKbKbKbKckbKbKbKaicGbJbJcIcLcLcLcLcLcLcLcLcIbJbJcGaibPbKbKbKbKbKbKbKbKbKbKai
+aibPbKbKbKbKbKbKbKbKaicGbJbJcIcLcMcLcLcLcLcMcLcIbJbJcGaibKbKckbKbKbKbKbKbKbKceai
+aibKbKbKbKbKbKbKbKbKaicGbJbJcIcLcRcLcLcLcLcRcLcIbJbJcGaibKbKbKbKbKbMbKbKbKbKbKai
+aibKbKcSbKbKbKbLbKcTaicGbJbJcIcLcLcLcLcLcLcLcLcIbJbJcGaicTbKbKbKbKbKbKbKcSbKbKai
+aiaiaiaiaiaiaiaiaiaiaicGbJbJcIcIcIcIcIcUcIcIcIcIbJbJcGaiaiaiaiaiaiaiaiaiaiaiaiai
+cGcGcGcGcGcGcGcGcGcGcGcGbJbJbJbJbJbJbJbJbJbJbJbJbJbJcGcGcGcGcGcGcGcGcGcGcGcGcGcG
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+"}

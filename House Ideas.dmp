@@ -1,0 +1,513 @@
+"aa" = (/turf,/area)
+"ab" = (/turf/barrier,/area)
+"ac" = (/turf/tile119,/area)
+"ad" = (/turf/tile116,/area)
+"ae" = (/turf/tile116,/turf/tile123,/area)
+"af" = (/turf/tile120,/area)
+"ag" = (/turf/tile125b,/area)
+"ah" = (/turf/tile117,/turf/tile121,/area)
+"ai" = (/turf/tile117,/area)
+"aj" = (/turf/tile117,/turf/tile124,/area)
+"ak" = (/turf/tile117,/turf/tile79,/area)
+"al" = (/turf/tile117,/turf/tile122,/area)
+"am" = (/turf/tile63,/turf/teleport2/HouseInsideM1Down,/area)
+"an" = (/turf/tile117,/turf/tile78,/area)
+"ao" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile121,/area)
+"ap" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile73,/area)
+"aq" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile74,/area)
+"ar" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile75,/area)
+"as" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/area)
+"at" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile83,/area)
+"au" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile84,/area)
+"av" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile122,/turf/NewWorld/Decor/Wall/W8,/area)
+"aw" = (/turf/tile63,/area)
+"ax" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile121,/turf/NewWorld/Decor/Wall/W7,/area)
+"ay" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile77,/area)
+"az" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile82,/area)
+"aA" = (/turf/NewWorld/Floor/Wood_Floor,/obj/tile72,/turf/tile118,/area)
+"aB" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile122,/area)
+"aC" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile121,/area)
+"aD" = (/turf/NewWorld/Floor/Wood_Floor,/area)
+"aE" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile122,/turf/NewWorld/Decor/Wall/W6,/area)
+"aF" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile121,/turf/NewWorld/Decor/Wall/W5,/area)
+"aG" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile122,/area)
+"aH" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/Wall/W4,/area)
+"aI" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/Wall/W3,/area)
+"aJ" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile98,/area)
+"aK" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile99,/area)
+"aL" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile100,/area)
+"aM" = (/turf/tile116,/turf/tile122,/area)
+"aN" = (/turf/NewWorld/Floor/Wood_Floor,/obj/chair4,/turf/tile101,/area)
+"aO" = (/turf/tile106,/turf/tile65,/area)
+"aP" = (/turf/tile106,/area)
+"aQ" = (/turf/tile106,/turf/tile65,/turf/NewWorld/Decor/Table_Decor/O2,/area)
+"aR" = (/turf/NewWorld/Floor/Wood_Floor,/obj/chair3,/turf/tile102,/area)
+"aS" = (/obj/Paintings/Painting_02,/turf/tile117,/area)
+"aT" = (/turf/tile117,/turf/tile78,/turf/NewWorld/Decor/Closeth/C1,/area)
+"aU" = (/turf/tile106,/obj/tile114,/turf/tile66,/area)
+"aV" = (/turf/tile106,/obj/tile80,/turf/tile66,/area)
+"aW" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile77,/turf/NewWorld/Decor/Closeth/C2,/area)
+"aX" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile122,/turf/tile118,/turf/tile122,/area)
+"aY" = (/turf/tile106,/obj/tile115,/turf/tile66,/area)
+"aZ" = (/turf/tile106,/turf/tile67,/area)
+"ba" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile103,/area)
+"bb" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile104,/area)
+"bc" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile105,/area)
+"bd" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile171,/area)
+"be" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile121,/turf/tile170,/turf/NewWorld/Decor/Wall/W1,/area)
+"bf" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile170,/area)
+"bg" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile170,/turf/tile121,/turf/NewWorld/Decor/Wall/W1,/area)
+"bh" = (/turf/NewWorld/Floor/Wood_Floor,/turf/teleport2/HouseInsideM1,/area)
+"bi" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile122,/turf/tile170,/turf/NewWorld/Decor/Wall/W2,/area)
+"bj" = (/turf/tile117,/turf/tile78,/turf/NewWorld/Decor/Closeth/C3,/area)
+"bk" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile68,/area)
+"bl" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile69,/area)
+"bm" = (/turf/NewWorld/Floor/Wood_Floor,/obj/tile44,/turf/tile118,/area)
+"bn" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile77,/turf/NewWorld/Decor/Closeth/C4,/area)
+"bo" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile70,/area)
+"bp" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile71,/area)
+"bq" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Floor/Carpet/Green/c1,/area)
+"br" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Floor/Carpet/Green/c2,/area)
+"bs" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Floor/Carpet/Green/c3,/area)
+"bt" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Floor/Carpet/Green/c6,/area)
+"bu" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Floor/Carpet/Green/c7,/area)
+"bv" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Floor/Carpet/Green/c8,/area)
+"bw" = (/obj/chair2,/turf/NewWorld/Floor/Wood_Floor,/area)
+"bx" = (/obj/chair4,/turf/NewWorld/Floor/Wood_Floor,/area)
+"by" = (/turf/NewWorld/Floor/Wood_Floor,/obj/tile80,/turf/tile65,/area)
+"bz" = (/obj/chair3,/turf/NewWorld/Floor/Wood_Floor,/area)
+"bA" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile66,/turf/tile170,/turf/NewWorld/Decor/Table_Decor/O1,/area)
+"bB" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile170,/turf/tile122,/turf/tile170,/turf/NewWorld/Decor/Wall/W2,/area)
+"bC" = (/turf/tile63,/turf/teleport2/HouseInsideM1Up,/area)
+"bD" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile170,/turf/tile121,/turf/tile170,/turf/NewWorld/Decor/Wall/W1,/area)
+"bE" = (/turf/tile119,/turf/opacity,/turf/barrier,/area)
+"bF" = (/turf/tile116,/turf/opacity,/turf/barrier,/area)
+"bG" = (/turf/tile116,/turf/tile123,/turf/opacity,/turf/barrier,/area)
+"bH" = (/turf/tile120,/turf/opacity,/turf/barrier,/area)
+"bI" = (/turf/tile117,/turf/tile121,/turf/opacity,/turf/barrier,/area)
+"bJ" = (/turf/tile117,/turf/tile121,/turf/NewWorld/Decor/Wall/W7,/turf/opacity,/area)
+"bK" = (/turf/tile117,/turf/tile122,/turf/opacity,/turf/barrier,/area)
+"bL" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile121,/turf/tile118,/turf/tile121,/turf/opacity,/turf/barrier,/area)
+"bM" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/NewWorld/Decor/Table/T1,/turf/NewWorld/Decor/Table_Decor/O2,/area)
+"bN" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/NewWorld/Decor/Table/T2,/area)
+"bO" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/obj/tile80,/turf/NewWorld/Decor/Table/T2,/area)
+"bP" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/obj/tile114,/turf/NewWorld/Decor/Table/T3,/area)
+"bQ" = (/turf/tile18,/turf/tile118,/turf/tile121,/turf/NewWorld/Decor/Wall/W5,/turf/opacity,/area)
+"bR" = (/turf/tile18,/turf/tile118,/turf/tile113,/area)
+"bS" = (/turf/tile18,/turf/tile118,/area)
+"bT" = (/turf/tile18,/turf/tile122,/turf/tile118,/turf/tile122,/turf/opacity,/turf/barrier,/area)
+"bU" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile121,/turf/opacity,/turf/barrier,/area)
+"bV" = (/turf/tile18,/turf/NewWorld/Decor/Wall/W3,/area)
+"bW" = (/turf/tile18,/area)
+"bX" = (/turf/tile18,/turf/tile122,/turf/opacity,/turf/barrier,/area)
+"bY" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile65,/area)
+"bZ" = (/turf/tile18,/turf/tile121,/turf/opacity,/area)
+"ca" = (/obj/chair2,/turf/tile18,/area)
+"cb" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile66,/area)
+"cc" = (/obj/chair4,/turf/tile18,/area)
+"cd" = (/turf/tile18,/turf/NewWorld/Decor/Table/T1,/area)
+"ce" = (/turf/tile18,/turf/NewWorld/Decor/Table/T2,/area)
+"cf" = (/turf/tile18,/obj/tile115,/turf/NewWorld/Decor/Table/T2,/area)
+"cg" = (/turf/tile18,/turf/NewWorld/Decor/Table/T3,/area)
+"ch" = (/obj/chair3,/turf/tile18,/area)
+"ci" = (/turf/NewWorld/Floor/Wood_Floor,/obj/tile44,/turf/tile66,/area)
+"cj" = (/obj/chair1,/turf/tile18,/area)
+"ck" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/Table_Decor/O1,/obj/tile72,/turf/NewWorld/Decor/Table_Decor/O1{layer = 4},/area)
+"cl" = (/turf/NewWorld/Floor/Wood_Floor,/obj/tile114,/turf/tile67,/area)
+"cm" = (/turf/tile119,/turf/tile122,/turf/opacity,/turf/barrier,/area)
+"cn" = (/turf/tile116,/turf/tile170,/turf/opacity,/area)
+"co" = (/turf/tile116,/turf/tile121,/turf/opacity,/area)
+"cp" = (/turf/tile116,/turf/opacity,/area)
+"cq" = (/turf/tile116{density = 0; layer = 10},/area)
+"cr" = (/turf/tile18,/turf/NewWorld/Decor/Plant{tag = ""; icon_state = "0,1"},/area)
+"cs" = (/turf/tile117,/turf/tile121,/turf/tile122,/turf/opacity,/turf/barrier,/area)
+"ct" = (/turf/tile95,/turf/teleport/HouseOutsideZenioxDown,/area)
+"cu" = (/turf/tile97,/turf/teleport/HouseOutsideZenioxDown,/area)
+"cv" = (/turf/tile117,/turf/tile121,/turf/opacity,/area)
+"cw" = (/turf/tile117,/turf/NewWorld/Decor/Closeth/C3,/area)
+"cx" = (/turf/tile117,/turf/tile94,/area)
+"cy" = (/turf/tile18,/turf/tile113,/area)
+"cz" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile121,/turf/tile118,/turf/tile121,/turf/tile122,/turf/opacity,/turf/barrier,/area)
+"cA" = (/turf/tile95,/area)
+"cB" = (/turf/tile97,/area)
+"cC" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile121,/turf/opacity,/area)
+"cD" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/NewWorld/Decor/Closeth/C4,/area)
+"cE" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile93,/area)
+"cF" = (/turf/tile119,/turf/opacity,/area)
+"cG" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile121,/turf/tile122,/turf/opacity,/turf/barrier,/area)
+"cH" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile121,/turf/opacity,/area)
+"cI" = (/obj/Paintings/Painting_01,/turf/tile117,/area)
+"cJ" = (/turf/tile117,/turf/NewWorld/Decor/Closeth/C1,/area)
+"cK" = (/obj/Paintings/Painting_04,/turf/tile117,/area)
+"cL" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile121,/turf/tile122,/turf/NewWorld/Decor/Wall/W8,/turf/opacity,/turf/barrier,/area)
+"cM" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/Wall/W7,/turf/opacity,/area)
+"cN" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/Wall/W7,/turf/tile118,/turf/NewWorld/Decor/Wall/W7,/turf/opacity,/area)
+"cO" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/NewWorld/Decor/Closeth/C2,/area)
+"cP" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile122,/turf/tile118,/turf/tile122,/turf/opacity,/turf/barrier,/area)
+"cQ" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile121,/turf/tile122,/turf/NewWorld/Decor/Wall/W6,/turf/opacity,/turf/barrier,/area)
+"cR" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/Wall/W5,/turf/opacity,/area)
+"cS" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile122,/turf/opacity,/turf/barrier,/area)
+"cT" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile121,/turf/NewWorld/Decor/Wall/W4,/turf/opacity,/turf/barrier,/area)
+"cU" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/Wall/W3,/turf/opacity,/area)
+"cV" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile83,/area)
+"cW" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile84,/area)
+"cX" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile65,/turf/NewWorld/Decor/Table_Decor/O1,/area)
+"cY" = (/turf/NewWorld/Floor/Wood_Floor,/turf/Area/ZenioxHouse,/area)
+"cZ" = (/turf/NewWorld/Floor/Wood_Floor,/obj/tile80,/turf/tile66,/area)
+"da" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile67,/turf/NewWorld/Decor/Table_Decor/O1,/area)
+"db" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile170,/turf/NewWorld/Decor/Wall/W1,/turf/opacity,/turf/barrier,/area)
+"dc" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile170,/turf/opacity,/turf/barrier,/area)
+"dd" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile170,/turf/tile122,/turf/opacity,/turf/barrier,/area)
+"de" = (/turf/NewWorld/Floor/Wood_Floor,/turf/teleport/HouseInsideZeniox,/area)
+"df" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/Wall/W1,/turf/opacity,/turf/barrier,/area)
+"dg" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile122,/turf/NewWorld/Decor/Wall/W2,/turf/opacity,/turf/barrier,/area)
+"dh" = (/turf/tile117,/turf/tile130,/turf/opacity,/area)
+"di" = (/turf/tile117,/turf/tile157,/area)
+"dj" = (/turf/tile117,/turf/tile139,/area)
+"dk" = (/turf/tile117,/turf/tile138,/area)
+"dl" = (/turf/tile117,/turf/tile140,/area)
+"dm" = (/turf/tile117,/turf/tile130,/area)
+"dn" = (/turf/NewWorld/Floor/Wood_Floor,/obj/tile72,/obj/tile80,/turf/tile118,/area)
+"do" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile129,/turf/opacity,/area)
+"dp" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile122,/turf/opacity,/turf/barrier,/area)
+"dq" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile156,/area)
+"dr" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/obj/BookOf/Book_Of_Evil,/turf/tile74,/area)
+"ds" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/obj/BookOf/Book_Of_Good,/turf/tile74,/area)
+"dt" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile129,/area)
+"du" = (/turf/NewWorld/Floor/Wood_Floor,/turf/opacity,/area)
+"dv" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/SourceStatue/s3,/area)
+"dw" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/SourceStatue/s4,/area)
+"dx" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Floor/Carpet/Blue/c1,/area)
+"dy" = (/turf/NewWorld/Floor/Carpet/Blue/c2,/area)
+"dz" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Floor/Carpet/Blue/c3,/area)
+"dA" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/ElderStatue/e3,/area)
+"dB" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/ElderStatue/e4,/area)
+"dC" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/SourceStatue/s1,/area)
+"dD" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/SourceStatue/s2,/area)
+"dE" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Floor/Carpet/Blue/c4,/area)
+"dF" = (/turf/NewWorld/Floor/Carpet/Blue/c9,/area)
+"dG" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Floor/Carpet/Blue/c5,/area)
+"dH" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/ElderStatue/e1,/area)
+"dI" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/ElderStatue/e2,/area)
+"dJ" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile65,/turf/opacity,/area)
+"dK" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile126,/area)
+"dL" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile127,/area)
+"dM" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile66,/turf/opacity,/area)
+"dN" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile137,/area)
+"dO" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile128,/area)
+"dP" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile94,/area)
+"dQ" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile67,/turf/opacity,/area)
+"dR" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile93,/area)
+"dS" = (/turf/opacity,/area)
+"dT" = (/turf/tile116,/turf/tile133,/turf/opacity,/turf/barrier,/area)
+"dU" = (/turf/tile117,/turf/tile134,/area)
+"dV" = (/obj/Paintings/Painting_03,/turf/tile117,/area)
+"dW" = (/turf/tile117,/turf/NewWorld/Decor/Closeth/C1,/turf/opacity,/area)
+"dX" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/tile135,/area)
+"dY" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/NewWorld/Decor/Closeth/C2,/turf/opacity,/area)
+"dZ" = (/turf/NewWorld/Floor/Carpet/Blue/c9,/turf/NewWorld/Floor/Carpet/Corner/c4,/area)
+"ea" = (/turf/NewWorld/Floor/Carpet/Blue/c9,/turf/NewWorld/Floor/Carpet/Corner/c3,/area)
+"eb" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile122,/turf/opacity,/area)
+"ec" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile94{density = 0; layer = 10},/turf/NewWorld/Floor/Carpet/Blue/c6,/area)
+"ed" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Floor/Carpet/Blue/c7,/area)
+"ee" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile94{density = 0; layer = 10},/turf/NewWorld/Floor/Carpet/Blue/c8,/area)
+"ef" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile132,/area)
+"eg" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile132,/turf/opacity,/area)
+"eh" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile170,/turf/tile121,/turf/opacity,/turf/barrier,/area)
+"ei" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile131,/turf/opacity,/turf/barrier,/area)
+"ej" = (/turf/tile95,/turf/teleport/HouseInsideZenioxUp,/area)
+"ek" = (/turf/tile97,/turf/teleport/HouseInsideZenioxUp,/area)
+"el" = (/turf/tile33,/turf/barrier,/area)
+"em" = (/turf/tile33,/turf/barrier,/turf/tile163,/area)
+"en" = (/turf/Water,/area)
+"eo" = (/turf/tile17,/area)
+"ep" = (/turf/tile33,/turf/tile169,/area)
+"eq" = (/turf/tile38,/area)
+"er" = (/turf/tile40,/turf/Area/CouncilRoom,/area)
+"es" = (/turf/tile39,/area)
+"et" = (/turf/tile33,/turf/tile162,/area)
+"eu" = (/turf/tile40,/area)
+"ev" = (/turf/Water,/turf/tile94,/area)
+"ew" = (/turf/tile33,/turf/tile94{layer = 10},/turf/tile93,/area)
+"ex" = (/turf/tile33,/turf/tile93,/area)
+"ey" = (/turf/tile38,/turf/tile91,/area)
+"ez" = (/turf/tile39,/turf/tile91,/area)
+"eA" = (/turf/Ultimate/Floor,/turf/tile92,/area)
+"eB" = (/turf/Ultimate/Floor,/area)
+"eC" = (/turf/tile21,/area)
+"eD" = (/turf/Ultimate/Floor,/turf/tile24,/area)
+"eE" = (/turf/Ultimate/Floor,/turf/tile35,/area)
+"eF" = (/turf/tile22,/area)
+"eG" = (/turf/Ultimate/Floor,/turf/tile20,/turf/tile94,/area)
+"eH" = (/turf/Ultimate/Floor,/turf/tile23,/turf/tile94,/area)
+"eI" = (/turf/Ultimate/Floor,/turf/tile93,/turf/tile94,/area)
+"eJ" = (/turf/Water,/turf/tile163,/area)
+"eK" = (/turf/Water,/turf/tile169,/area)
+"eL" = (/turf/Ultimate/Floor,/turf/tile93,/area)
+"eM" = (/turf/grass,/turf/NewWorld/Decor/Bush/Plant4,/area)
+"eN" = (/turf/grass,/area)
+"eO" = (/turf/Ultimate/Floor,/turf/tile162,/area)
+"eP" = (/turf/tile33,/area)
+"eQ" = (/turf/grass,/turf/NewWorld/Decor/Bush/Plant5,/area)
+"eR" = (/turf/grass,/turf/NewWorld/Decor/Bush/Plant1,/area)
+"eS" = (/turf/grass,/turf/NewWorld/Decor/Bush/Plant2,/area)
+"eT" = (/turf/Ultimate/Floor,/turf/tile163{layer = 10},/area)
+"eU" = (/turf/tile33,/turf/tile169{density = 0; layer = 10},/area)
+"eV" = (/turf/tile117,/obj/NewWorld/Avatar_Potion,/turf/NewWorld/Decor/Closeth/C1,/area)
+"eW" = (/turf/tile117,/turf/NewWorld/Decor/Wall/W8,/area)
+"eX" = (/turf/tile87,/turf/teleport2/HouseInsideM3Down,/area)
+"eY" = (/turf/tile117,/turf/NewWorld/Decor/Wall/W7,/area)
+"eZ" = (/turf/tile117,/obj/NewWorld/Vanquish_Potion_Demon,/obj/NewWorld/Vanquish_Potion_Warlock,/obj/NewWorld/Vanquish_Potion_Darklighter,/turf/tile78,/area)
+"fa" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/NewWorld/Decor/Wall/W6,/area)
+"fb" = (/turf/tile87,/area)
+"fc" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/NewWorld/Decor/Wall/W5,/area)
+"fd" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/turf/NewWorld/Decor/Table/T3,/turf/NewWorld/Decor/Table_Decor/O1,/area)
+"fe" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile118,/obj/tile80,/turf/tile65,/area)
+"ff" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile67,/area)
+"fg" = (/turf/tile116,/turf/tile121,/area)
+"fh" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/Wall/W7,/area)
+"fi" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/Wall/W5,/area)
+"fj" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile121,/turf/tile118,/turf/tile121,/area)
+"fk" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile73,/area)
+"fl" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile75,/area)
+"fm" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/Wall/W1,/area)
+"fn" = (/turf/NewWorld/Floor/Wood_Floor,/turf/tile170,/turf/NewWorld/Decor/Wall/W1,/area)
+"fo" = (/turf/NewWorld/Floor/Wood_Floor,/turf/teleport2/HouseInsideM3,/area)
+"fp" = (/turf/NewWorld/Floor/Wood_Floor,/turf/NewWorld/Decor/Wall/W2,/area)
+"fq" = (/turf/tile61,/turf/tile118,/turf/tile121,/area)
+"fr" = (/turf/tile61,/turf/tile118,/turf/NewWorld/Decor/Closeth/C2,/area)
+"fs" = (/turf/tile61,/turf/tile118,/turf/NewWorld/Decor/Closeth/C4,/area)
+"ft" = (/turf/tile61,/turf/tile118,/area)
+"fu" = (/turf/tile61,/obj/tile72,/turf/tile118,/area)
+"fv" = (/turf/tile61,/turf/tile118,/turf/tile122,/area)
+"fw" = (/turf/tile61,/turf/tile118,/turf/tile77,/area)
+"fx" = (/turf/tile61,/turf/tile118,/turf/tile68,/area)
+"fy" = (/turf/tile61,/turf/tile118,/turf/tile69,/area)
+"fz" = (/turf/tile61,/turf/tile121,/area)
+"fA" = (/turf/tile61,/turf/NewWorld/Floor/Carpet/Blue/c1,/area)
+"fB" = (/turf/tile61,/turf/NewWorld/Floor/Carpet/Blue/c2,/area)
+"fC" = (/turf/tile61,/turf/NewWorld/Floor/Carpet/Blue/c3,/area)
+"fD" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W8,/area)
+"fE" = (/turf/tile61,/area)
+"fF" = (/turf/tile61,/turf/tile70,/area)
+"fG" = (/turf/tile61,/turf/tile71,/area)
+"fH" = (/turf/tile61,/turf/tile122,/area)
+"fI" = (/turf/tile61,/turf/NewWorld/Floor/Carpet/Blue/c4,/area)
+"fJ" = (/obj/chair2,/turf/NewWorld/Floor/Carpet/Blue/c9,/area)
+"fK" = (/turf/tile61,/turf/NewWorld/Floor/Carpet/Blue/c5,/area)
+"fL" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W6,/area)
+"fM" = (/obj/chair4,/turf/NewWorld/Floor/Carpet/Blue/c9,/area)
+"fN" = (/turf/NewWorld/Floor/Carpet/Blue/c9,/turf/tile65,/area)
+"fO" = (/obj/chair3,/turf/NewWorld/Floor/Carpet/Blue/c9,/area)
+"fP" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W4,/area)
+"fQ" = (/turf/NewWorld/Floor/Carpet/Blue/c9,/obj/tile80,/turf/tile66,/area)
+"fR" = (/turf/NewWorld/Floor/Carpet/Blue/c9,/turf/tile67,/area)
+"fS" = (/obj/chair1,/turf/NewWorld/Floor/Carpet/Blue/c9,/area)
+"fT" = (/turf/tile61,/turf/NewWorld/Floor/Carpet/Blue/c6,/area)
+"fU" = (/turf/tile61,/turf/NewWorld/Floor/Carpet/Blue/c7,/area)
+"fV" = (/turf/tile61,/turf/NewWorld/Floor/Carpet/Blue/c8,/area)
+"fW" = (/turf/tile61,/turf/tile118,/turf/tile73,/area)
+"fX" = (/turf/tile61,/turf/tile118,/turf/tile74,/turf/NewWorld/Decor/Table_Decor/O1,/area)
+"fY" = (/turf/tile61,/turf/tile118,/turf/tile75,/area)
+"fZ" = (/turf/tile61,/turf/tile122,/turf/tile118,/turf/tile122,/area)
+"ga" = (/obj/chair1,/turf/tile61,/area)
+"gb" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W1,/area)
+"gc" = (/turf/tile61,/turf/tile170,/area)
+"gd" = (/turf/tile87,/turf/teleport2/HouseInsideM3Up,/area)
+"ge" = (/turf/tile61,/turf/NewWorld/Decor/Wall/W2,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabababababababababababababababababaaaaaaaaaa
+aaaaaaabacadaeadadaeadafagagacadaeadafabaaaaaaaaaa
+aaaaaaabahaiajaiakajaialamamahanajaialabaaaaaaaaaa
+aaaaaaabaoapaqarasatauavawawaxayazaAaBabaaaaaaaaaa
+aaaaaaabaCaDaDaDaDaDaDaEaDaDaFaDaDaDaGabaaaaaaaaaa
+aaaaaaabaCaDaDaDaDaDaDaHaDaDaIaDaDaDaGabaaaaaaaaaa
+aaaaaaabaCaDaDaDaDaDaDaDaDaDaDaDaDaDaGabaaaaaaaaaa
+aaaaaaabaCaDaJaKaKaKaLaDaDaDacadadadaMabaaaaaaaaaa
+aaaaaaabaCaDaNaOaPaQaRaDaDaDahaSaiaTalabaaaaaaaaaa
+aaaaaaabaCaDaNaUaPaVaRaDaDaDaxasasaWaXabaaaaaaaaaa
+aaaaaaabaCaDaNaVaPaYaRaDaDaDaFaDaDaDaGabaaaaaaaaaa
+aaaaaaabaCaDaNaZaPaZaRaDaDaDaIaDaDaDaGabaaaaaaaaaa
+aaaaaaabaCaDbabbbbbbbcaDaDaDaDaDaDaDaGabaaaaaaaaaa
+aaaaaaabaCaDaDaDaDaDaDaDaDaDbdaDaDaDaGabaaaaaaaaaa
+aaaaaaabbebfbfbfbfbfbfbfbfbfbgbhbhbfbiabaaaaaaaaaa
+aaaaaaabababababababababababababababababaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,2) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabababababababababababababaaaaaaaaaaaa
+aaaaaaaaaaaaabacadaeadadadadadaeadafabaaaaaaaaaaaa
+aaaaaaaaaaaaabahaiajaiakaibjanajaialabaaaaaaaaaaaa
+aaaaaaaaaaaaabaobkblasasbmbnayasaAaBabaaaaaaaaaaaa
+aaaaaaaaaaaaabaCbobpaDaDaDaDaDaDaDaGabaaaaaaaaaaaa
+aaaaaaaaaaaaabaCaDaDaDaDbqbrbsaDaDaGabaaaaaaaaaaaa
+aaaaaaaaaaaaabaCaDaDaDaDbtbubvaDaDaGabaaaaaaaaaaaa
+aaaaaaaaaaaaabaCaDbwaDaDaDaDaDaDaDaGabaaaaaaaaaaaa
+aaaaaaaaaaaaabaCbxbybzaDaDaDaDaDaDaGabaaaaaaaaaaaa
+aaaaaaaaaaaaabbebfbAbfbfbBbCbCbDbfbiabaaaaaaaaaaaa
+aaaaaaaaaaaaabababababababababababababaaaaaaaaaaaa
+aaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,3) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabEbFbFbGbFbFbFbFbEbFbGbFbFbFbFbGbFbFbFbGbFbFbHaa
+aabIaiaiajaiakaiaibJaiajaiaiaiaiajaiakaiajaiaibKaa
+aabLazbMbNbObNbNbPbQbRbSbSbSbSbSbSbSbSbSbSbSbRbTaa
+aabUaDaDaDaDaDaDaDbVbWbWbWbWbWbWbWbWbWbWbWbWbWbXaa
+aabUaDaDaDaDaDaDaDbWbWbWbWbWbWbWbWbWbWbWbWbWbWbXaa
+aabUaDaDaDaDaDaDbYbZbWbWbWcacacacacacacabWbWbWbXaa
+aabUaDaDaDaDaDaDcbbZbWbWcccdcecfcecfcecgchbWbWbXaa
+aabUaDaDaDaDaDaDcibZbWbWbWcjcjcjcjcjcjcjbWbWbWbXaa
+aabUckaDaDaDaDaDclbZbWbWbWbWbWbWbWbWbWbWbWbWbWbXaa
+aacmcncncocpcpcqcpbZbWbWbWbWbWbWbWbWbWbWbWbWcrbXaa
+aacsctcucvcwcxaDcxbZcybWbWbWbWbWbWbWbWbWbWbWcybXaa
+aaczcAcBcCcDcEaDcEcFcpcpcpcpcpcpcpcqcpcpcpcpcpbHaa
+aacGcAcBcHaDaDaDaDcvaTcIcJaiakaiaibWcKaiaiaiaibKaa
+aacLcAcBcMaDaDaDaDcNcOascOasasasasaDasasapaqarcPaa
+aacQcAcBcRaDaDaDaDcRaDaDaDaDaDaDaDaDaDaDaDaDaDcSaa
+aacTcAcBcUaDaDaDaDcUaDaDaDaDaDaDaDaDaDaDaDaDaDcSaa
+aabUaDaDaDaDaDaDaDaDaDaDaDcVcWcVcWcVcWaDaDaDaDcSaa
+aabUaDaDaDaDaDaDaDcHaDaDaDaDaDaDaDaDaDaDaDaDaDcSaa
+aabUaDaDaDaDaDaDaDcHaDaDaDaDcXaDaDcXaDaDaDaDaDcSaa
+aabUaDaDcYaDaDaDaDcHaDaDaDaDcZaDaDcZaDaDaDaDaDcSaa
+aabUaDaDaDaDaDaDaDcHaDaDaDaDcbaDaDcbaDaDaDaDaDcSaa
+aabUaDaDaDaDaDaDaDcHaDaDaDaDdaaDaDdaaDaDaDaDaDcSaa
+aadbdcdcdcdcdddededfdcdcdcdcdcdcdcdcdcdcdcdcdcdgaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,4) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaabEbFbFbFbFbFbFbFbFbFbHbFbFbFbFbFbFbFbHaaaaaa
+aaaaaabIaiaiaicIaiakcwaSdhbKdidjdkdldjdkdmbKaaaaaa
+aaaaaabLdnbkbldnasascDasdodpdqapdraqdsardtcPaaaaaa
+aaaaaabUaDbobpaDaDaDaDaDducSaDaDaDaDaDaDaDcSaaaaaa
+aaaaaabUaDaDaDaDaDaDaDaDducSdvdwdxdydzdAdBcSaaaaaa
+aaaaaabUaDaDaDaDaDaDaDaDducSdCdDdEdFdGdHdIcSaaaaaa
+aaaaaabUaDaDaDaDaDaDaDaDducSaDaDdEdFdGaDaDcSaaaaaa
+aaaaaabUaDaDaDaDaDaDaDaDdJcSdKdLdEdFdGdKdLcSaaaaaa
+aaaaaabUaDaDaDaDaDaDaDaDdMcSdNdOdEdFdGdNdOcSaaaaaa
+aaaaaabUaDaDaDaDaDaDaDaDdMcSaDdPdEdFdGdPaDcSaaaaaa
+aaaaaabUaDaDaDaDaDaDaDaDdQcSdudRdEdFdGdRaDcSaaaaaa
+aaaadSbEbFbFcqdTbFbFbFbFbFbFbUaDdEdFdGaDaDcSaaaaaa
+aaaaaabIcKaiaDdUaidVaiaiaidWbUaDdEdFdGaDaDcSaaaaaa
+aaaaaabLasasaDdXasasatauasdYbUdPdEdFdGdPaDcSaaaaaa
+aaaaaabUaDaDaDaDaDaDaDaDaDdubUdRdEdFdGdRaDcSaaaaaa
+aaaaaabUaDaDaDaDaDaDaDaDaDdubUdxdZdFeadzaDebaaaaaa
+aaaaaabUaDaDaDaDaDaDaDaDaDdubUecedededeeaDcSaaaaaa
+aaaaaabUaDaDaDaDaDaDaDaDaDdubUdRaDaDaDdRaDcSaaaaaa
+aaaaaabUaDaDaDaDaDaDefaDaDegbUaDaDaDaDaDaDcSaaaaaa
+aaaaaaehdcdcdcdcdcdceiejekeiehdcdcdcdcdcdcddaaaaaa
+"}
+
+(1,1,5) = {"
+elelelelelelelelelelemelelelemelelelelelelelelelel
+eleneneneneneneneneoepeqeresepeoenenenenenenenenel
+eleneneneneneneneneoeteqeueseteoenenenenenenenenel
+eleneneneneneneneneoeneqeueseneoenenenenenenenenel
+eleneneneneneneneneoeveqeueseveoenenenenenenenenel
+eleneneneneneneneneoeweqeueseweoenenenenenenenenel
+eleneneneneneneneneoexeqeuesexeoenenenenenenenenel
+eleneneneneneneneneoeneyeuezeneoenenenenenenenenel
+eleneneneneneneneneoeoeAeBeAeoeoenenenenenenenenel
+eleneneneneneneneneCeCeDeBeEeCeCenenenenenenenenel
+eleneneneneneneneneFeFeGeBeHeFeFenenenenenenenenel
+eleneneneneneneneneneneIeBeIenenenenenenenenenenel
+eleneneneneneJeneneneneIeBeIeneneneneJenenenenenel
+eleneneneneneKeneneneneLeBeLeneneneneKenenenenenel
+eleMeNeNeNeNeOePeBeBeBeBeBeBeBeBeBePeOeNeQeNeNeNel
+eleNeNeNeMeNePePeBeBeBeBeBeBeBeBeBePePeNeNeNeNeNel
+eleNeReNeNeNeBeBeBeBeBeBeBeBeBeBeBeBeBeNeNeSeNeNel
+eleNeNeNeNeNeBeBeBeBeBeBeBeBeBeBeBeBeBeNeNeNeNeNel
+eleNeNeNeNeSeBeBeBeBeBeBePeBeBeBeBeBeBeMeNeNeQeNel
+eleNeSeNeNeNeBeBeBeBeBeBeBeBeBeBeBeBeBeNeReNeNeNel
+eleNeNeNeNeNeTeBeBeBeBeBeBeBeBeBeBeBeTeNeNeNeNeNel
+eleNeNeNeQeNeUePeBeBeBeBeBeBeBeBeBePeUeNeNeNeNeMel
+eleNeReNeNeNeOePeBeBeBeBeBeBeBeBeBePeOeNeSeNeNeNel
+eleNeNeNeSeNeNeQeNeNeMeNeReNeNeQeNeNeNeNeNeNeNeNel
+elelelelelelelelelelelelelelelelelelelelelelelelel
+"}
+
+(1,1,6) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaacadaeafagacadadadadadadaeadafaaaaaaaaaaaa
+aaaaaaaaaheVajeWeXeYakaiaSaicKeZajaialaaaaaaaaaaaa
+aaaaaaaaaocOaAfafbfcbMbNfdfeasayazasaBaaaaaaaaaaaa
+aaaaaaaaaCaDaDaHaDaIaDaDaDffaDaDaDaDaGaaaaaaaaaaaa
+aaaaaaaaaCaDaDaDaDaDaDaDaDaDaDaDaDaDaGaaaaaaaaaaaa
+aaaaaaaaaCaDaDaDaDaDaDaDaDaDaDaDaDaDaGaaaaaaaaaaaa
+aaaaaaaaaCaDaDaDaDaDaDaDaDaDaDaDaDaDaGaaaaaaaaaaaa
+aaaaaaaafgadadfhaDaDaDaDacadadadadadaMaaaaaaaaaaaa
+aaaaaaaaahaiaifiaDaDaDaDahaicJanaiaialaaaaaaaaaaaa
+aaaaaaaafjatauaIaDaDaDaDaoaAcOayasasaXaaaaaaaaaaaa
+aaaaaaaaaCfkflaDaDaDaDaDfhaDaDaDaDaDaGaaaaaaaaaaaa
+aaaaaaaaaCaDaDaDaDaDaDaDfiaDaJaKaLaDaGaaaaaaaaaaaa
+aaaaaaaaaCaDaDaDaDaDaDaDaIaDbabbbcaDaGaaaaaaaaaaaa
+aaaaaaaaaCaDaDaDaDaDaDaDaDaDaDaDaDaDaGaaaaaaaaaaaa
+aaaaaaaafmbfbfbfbfbfbfbffnbfbffofobffpaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,7) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabababababababababababababababababaaaaaaaaaa
+aaaaaaabacadadadadadadafadadadadadadafabaaaaaaaaaa
+aaaaaaabahcJcwaiaSaiaialaiakaianaiaialabaaaaaaaaaa
+aaaaaaabfqfrfsftftftfufvftftftfwfxfyfvabaaaaaaaaaa
+aaaaaaabfzfAfBfBfBfBfCfDfEfEfEfEfFfGfHabaaaaaaaaaa
+aaaaaaabfzfIdFfJdFdFfKfLfEfEfEfEfEfEfHabaaaaaaaaaa
+aaaaaaabfzfIfMfNfOdFfKfPfEfEfEfEfEfEfHabaaaaaaaaaa
+aaaaaaabfzfIfMfQfOdFfKfEfEfEfEfEfEfEfHabaaaaaaaaaa
+aaaaaaabfzfIfMfRfOdFfKfDadadadadadadaMabaaaaaaaaaa
+aaaaaaabfzfIdFfSdFdFfKfLcJaiaiaidVaialabaaaaaaaaaa
+aaaaaaabfzfTfUfUfUfUfVfPfrfWfXfYftftfZabaaaaaaaaaa
+aaaaaaabfzfEfEfEfEfEfEfEfEfEgafEfEfEfHabaaaaaaaaaa
+aaaaaaabfzfEfEfEfEfEfEfEfEfEfEfEfEfEfHabaaaaaaaaaa
+aaaaaaabfzfEfEfEfEfEfEfEfEfEfEfEfEfEfHabaaaaaaaaaa
+aaaaaaabgbgcgcgdgcgcgcgcgcgcgcgcgcgcgeabaaaaaaaaaa
+aaaaaaabababababababababababababababababaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

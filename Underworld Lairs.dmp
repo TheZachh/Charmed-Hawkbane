@@ -1,0 +1,109 @@
+"a" = (/turf/tile142,/area)
+"b" = (/turf/tile144,/turf/tile161,/area)
+"c" = (/turf/tile149,/area)
+"d" = (/turf/tile143,/area)
+"e" = (/turf/tile142,/turf/tile157,/area)
+"f" = (/turf/tile144,/area)
+"g" = (/turf/tile149,/turf/NewWorld/Decor/Throne/Throne6,/area)
+"h" = (/turf/tile141,/area)
+"i" = (/turf/tile149,/turf/tile89,/area)
+"j" = (/turf/tile158,/area)
+"k" = (/turf/tile159,/area)
+"l" = (/turf/tile160,/area)
+"m" = (/turf/tile61,/area)
+"n" = (/turf/tile61,/turf/NewWorld/Teleport/Hell/Lair1ToHell4,/area)
+"o" = (/turf/tile149,/turf/tile161,/area)
+"p" = (/turf/tile158b,/area)
+"q" = (/turf/tile145,/area)
+"r" = (/turf/tile149,/turf/Area/DarkForce,/area)
+"s" = (/turf/tile142,/turf/tile153,/area)
+"t" = (/turf/tile149,/turf/tile154,/area)
+"u" = (/turf/tile146,/area)
+"v" = (/turf/tile146,/turf/tile161,/area)
+"w" = (/obj/chair2,/turf/tile149,/area)
+"x" = (/obj/chair4,/turf/tile149,/area)
+"y" = (/turf/tile149,/turf/tile65,/area)
+"z" = (/obj/chair3,/turf/tile149,/area)
+"A" = (/turf/tile149,/turf/tile66,/area)
+"B" = (/turf/tile149,/turf/tile67,/area)
+"C" = (/obj/chair1,/turf/tile149,/area)
+"D" = (/turf/tile144,/turf/tile139,/area)
+"E" = (/turf/tile149,/turf/tile138,/area)
+"F" = (/turf/tile149,/turf/teleport/DeathToHell,/area)
+"G" = (/turf/tile149,/turf/tile139,/area)
+"H" = (/turf/tile143,/turf/tile138,/area)
+"I" = (/turf/tile149,/turf/tile155,/area)
+"J" = (/turf/tile149,/turf/tile153,/area)
+"K" = (/turf/tile146,/turf/tile152,/area)
+"L" = (/turf/tile149,/turf/Area/EvilDeath,/area)
+"M" = (/turf/tile145,/turf/tile154,/area)
+"N" = (/turf,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaa
+aaaaabccccdaaaaaeaaa
+aafcccgcccchaaafidaa
+jklcgcccgcchaafcccmn
+kklcccccccchaaoccccn
+kplcccccccohaaccccqa
+aaocccrccccdsfccccha
+aacccccccccctcccccha
+abccccccccccccccccda
+accccccccccccccccclh
+auccccccccccccccclkk
+aaaaaaaavccccccccljk
+aaaaaaaafcccccccolkk
+abcccwcccccccccclkkk
+auccxyzccccccccclpkk
+aaccxAzccccccccclkkj
+aaccxBzcccccccclkkkk
+aauccCccccccccllkkkk
+aaaaaaauocccclkkjkpk
+aaaaaaaaaaaaaakkkkkk
+"}
+
+(1,1,2) = {"
+aaDEFGHaaaaaaaaaaaaa
+afccccccccccccccccda
+aocccccccccccccoccch
+acccccccocccccccccch
+accccccccccclcccccch
+accclcccccccccccccch
+accccccccccccccoccch
+acccccccccocccccccch
+acccocccccccccccccch
+akccccccccccccocccch
+ackcclccccclccccclch
+kkocccccocccccccccch
+kkkcccccccccccccccch
+jkkckccccccccoccccch
+kkkkkckcccccccccccch
+kkkkckcccclcccccccch
+kpjkkkkccccccccoccch
+kkpkkkkcccccccccccch
+kjkkkkjkkoccccIcJcqa
+kkkkkkkkkkaaaaKLMaaa
+"}
+
+(1,1,3) = {"
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNN
+"}

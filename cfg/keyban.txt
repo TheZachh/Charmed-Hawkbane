@@ -1,0 +1,2 @@
+Felicia desc=You+have+been+banned+from+Charmed%3a+Rebirth+of+Magic.
+Dark_Spector_16 desc=You+have+been+banned+from+Charmed%3a+Rebirth+of+Magic%3a+Breaking+rules

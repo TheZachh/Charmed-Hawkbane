@@ -1,0 +1,75 @@
+"a" = (/turf/tile142,/turf/opacity,/area)
+"b" = (/turf/tile144,/area)
+"c" = (/turf/tile149,/area)
+"d" = (/turf/tile160,/area)
+"e" = (/turf/tile143,/area)
+"f" = (/turf/tile61,/area)
+"g" = (/turf/tile61,/turf/tile73,/area)
+"h" = (/turf/tile61,/turf/tile74,/area)
+"i" = (/turf/tile61,/turf/tile75,/area)
+"j" = (/turf/tile141,/turf/opacity,/area)
+"k" = (/turf/tile61,/turf/tile65,/area)
+"l" = (/mob/DemonMarket/Trader1,/turf/tile61,/area)
+"m" = (/turf/tile61,/obj/tile80,/turf/tile66,/area)
+"n" = (/turf/tile61,/turf/tile67,/area)
+"o" = (/turf/tile149,/turf/tile94,/area)
+"p" = (/turf/tile81,/area)
+"q" = (/turf/tile149,/turf/tile88,/area)
+"r" = (/turf/tile149,/turf/tile93,/area)
+"s" = (/turf/tile149,/turf/tile156,/area)
+"t" = (/turf/tile61,/turf/teleport/DemonMarketToHell7,/area)
+"u" = (/mob/monster/Demon2,/turf/tile149,/area)
+"v" = (/turf/tile145,/area)
+"w" = (/turf/tile146,/area)
+"x" = (/mob/monster/Demon3,/turf/tile149,/area)
+"y" = (/mob/monster/Darklighter1,/turf/tile61,/area)
+"z" = (/turf/tile61,/turf/NewWorld/Teleport/Hell/DemonMarketToHell6,/area)
+"A" = (/mob/DemonMarket/Trader2,/turf/tile61,/area)
+"B" = (/mob/DemonMarket/Trader3,/turf/tile61,/area)
+"C" = (/turf,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aabcdccccceaaabccccdcceaa
+aacfghifffcjabcfgifffkcja
+aacffflfffcjaccffffffmcja
+aadfffffffcebccffffffncja
+aacccoffoccdcccoffpqcccja
+abcccrffrcccccdrffcscccja
+tfffffffffffghifffucccvja
+tfffffffffffffffffccvaaaa
+awccdcxcpffffyffffcceaaaa
+aacccccccfkfffffffffffffz
+aacffffcofnfffffffffffffz
+aacffffcrfffffffkfccvaaaa
+aackfffffffffffAmfccjaaaa
+aacmBfffffffffffnfccjaaaa
+aacnfffcdfffffffffccjaaaa
+aawcccccccccdccccccvjaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,2) = {"
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCC
+"}
